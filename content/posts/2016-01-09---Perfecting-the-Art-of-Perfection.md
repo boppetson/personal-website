@@ -5,9 +5,8 @@ slug: my-favorite-designs
 socialImage: /media/geometric-line-art.png
 draft: false
 date: 2021-10-25T21:29:32.333Z
-description: >
-  Here's where I keep a running list of the design solutions I've come across
-  that bring me joy.
+description: |
+  A running list of designs that brings me joy.
 category: Design
 tags:
   - Design
