@@ -1,6 +1,6 @@
 ---
 template: post
-title: My Favorite Designs
+title: My Favorite Design
 slug: my-favorite-designs
 socialImage: /media/geometric-line-art.png
 draft: false
