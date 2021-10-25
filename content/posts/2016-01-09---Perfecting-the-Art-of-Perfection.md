@@ -1,21 +1,37 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
-template: "post"
+template: post
+title: My Favorite Designs
+slug: my-favorite-designs
+socialImage: /media/geometric-line-art.png
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+date: 2021-10-25T21:29:32.333Z
+description: >
+  Here's where I keep a running list of the design solutions I've come across
+  that bring me joy.
+category: Design
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
-socialImage: "/media/image-2.jpg"
+  - Design
 ---
+## **The Sunday Strips - Calvin and Hobbes**
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+Bill Watterson authored and inked the highly successful comic strip series, *Calvin and Hobbes*. Every day for 10 years, a new *Calvin and Hobbes* strip came out. Normally, the newspapers that published comic strips limited each strip to just one row and a monochrome palette. However, there was one glorious exception: Sunday. On Sundays, cartoonists were free to submit much larger, multi-row strips in color.  Many beautiful illustrations came as a result of this allowance. 
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+When Watterson started creating the bigger Sunday strips for Calvin and Hobbes, he encountered a design problem. Different newspapers published different sizes of Sunday strips. Some printed three rows worth of material while others only printed two. This created two possible experiences for the end-user, the reader. Some readers would see all three strips while others would only see two. How could Watterson create a comic strip that works for both?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+Watterson realized he had to draw the Sunday strips so that the top row wasn’t essential to the strip’s story, but also in a way that didn’t make the top row feel out of place. The implementation of these rules (i.e. the solution) was so elegantly done every time that I never noticed it until I read Watterson's “Calvin And Hobbes Sunday Pages 1985-1995” where he pointed it out.
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Check out the strip below:
+
+![Calvin and Hobbes strip with two rows.](/media/cutdownstrip.png "Two Rows")
+
+What's the story? I see a kid trudging through a not-so-pleasant day until he gets back to his best friend and his day starts getting a whole lot better. 
+
+
+
+Read it again, now with the top panel.
+
+![The full Calvin and Hobbes Sunday strip with all three rows.](/media/fullstrip.png "Full Sunday strip")
+
+I see the same thing, only the message hits harder. The wide paneled freedom of flying in a dream makes the short cramped panels in the middle feel even more dreary. 
+
+Having all three rows makes for a better experience, but those who saw only two weren’t left behind. The lesson: all potential end-users should be able to get the core function out of a design. It should also be implemented in such a way that no one feels left behind.
