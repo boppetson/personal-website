@@ -25,6 +25,10 @@ Check out the strip below:
 
 What's the story? I see a kid trudging through a not-so-pleasant day until he gets back to his best friend and his day starts getting a whole lot better. 
 
+
+
+
+
 Read it again, now with the top panel.
 
 ![The full Calvin and Hobbes Sunday strip with all three rows.](/media/fullstrip.png "Full Sunday strip")
