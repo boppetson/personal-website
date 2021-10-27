@@ -22,7 +22,13 @@ We knew Twitch streamers generally had a lot of work to do and we wanted to know
 
 I discovered that many streamers run Minecraft servers where only Twitch subscribers are allowed to join the server. These “sub-only” servers were very popular with their fans and brought in a lot of subscription revenue for them; however, it required a lot of tedious upkeep from each streamer. To run a server, they would have to collect Minecraft usernames from fans through a form, keep those responses in a spreadsheet, manually check if someone was a Twitch sub, and then add their name to the server’s whitelist. It was painfully laborious. Perfect for us.
 
-Based on what I had learned from the streamers, I developed a list of minimum requirements for a product. If we were to build a solution to their problem, it would have to check certain boxes otherwise we wouldn’t be meeting their needs.  At this point, I brought in our lead engineer. I walked them through the user flows I’d created and made sure my product design was technically feasible within our limited timeframe. I worked closely with them as they built it, checking in frequently to make sure the end user's needs were being met. 
+### Designing the Product
+
+Based on what I had learned from the streamers, I developed a list of minimum requirements for our product. If we were to build a solution to their problem, it would have to check certain boxes otherwise we wouldn’t be meeting their needs.  At this point, I brought in our lead engineer. I walked them through the user flows I’d created and made sure my product design was technically feasible within our limited timeframe. I worked closely with them as they built it, checking in frequently to make sure the end user's needs were being met. 
+
+
+
+### Testing and Launch!
 
 Once our product met all the minimum requirements, I tested it with a streamer and their fans. I sought feedback and we iterated our product. It solved their problem! Yay! Now it was time to decide the price. Again, collaboration with our lead engineer was invaluable since they knew the uptime costs to run our product. From there, I added a profit margin and designed the rollout process based on our current growth strategy (another first for me, but that's another story). 
 
