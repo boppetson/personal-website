@@ -26,10 +26,8 @@ I discovered that many streamers run Minecraft servers where only Twitch subscri
 
 Based on what I had learned from the streamers, I developed a list of minimum requirements for our product. If we were to build a solution to their problem, it would have to check certain boxes otherwise we wouldn’t be meeting their needs.  At this point, I brought in our lead engineer. I walked them through the user flows I’d created and made sure my product design was technically feasible within our limited timeframe. I worked closely with them as they built it, checking in frequently to make sure the end user's needs were being met. 
 
+### Testing and Launch
 
-
-### Testing and Launch!
-
-Once our product met all the minimum requirements, I tested it with a streamer and their fans. I sought feedback and we iterated our product. It solved their problem! Yay! Now it was time to decide the price. Again, collaboration with our lead engineer was invaluable since they knew the uptime costs to run our product. From there, I added a profit margin and designed the rollout process based on our current growth strategy (another first for me, but that's another story). 
+Once our product met all the minimum requirements, I tested it with a streamer and their fans. It met their needs and saved them a bunch of time! Yay! I sought feedback and we iterated our product. Now it was time to ship and finalize the pricing. Again, collaboration with our lead engineer was invaluable since they knew the uptime costs to run our product. Based on those costs and what I had learned about the spending habits of our target customers, I set the price and we rolled it out. 
 
 My first product launch was complete!
