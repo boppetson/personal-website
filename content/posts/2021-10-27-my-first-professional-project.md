@@ -7,7 +7,7 @@ draft: false
 date: 2021-10-27T02:43:48.393Z
 description: |
   How I took my first product from nothing to something.
-category: Portfolio
+category: Design
 tags:
   - Design
   - Projects
