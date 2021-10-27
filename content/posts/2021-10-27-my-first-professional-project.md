@@ -12,7 +12,7 @@ tags:
   - Design
   - Projects
 ---
-My last job was at a startup with a team of four. I was not an engineer, which means I did everything else.  Business strategy, design, customer acquisition, and more. This was perfect for me since I could learn a variety of skills and try new disciplines. During this journey of personal growth, I led my first professional project start to finish and launched a product! Here's the story:
+My last job was at a startup with a team of four. I was not an engineer, which means I worked on everything else.  Business strategy, design, customer acquisition, and more. This was perfect for me since I could learn a variety of skills and try new disciplines. During this journey of personal growth, I led my first professional project start to finish and launched a product! Here's the story:
 
 We knew Twitch streamers generally had a lot of work to do and we wanted to know what specifically we could automate for them. I started by sitting in on a sample of Twitch streams. I noted what each streamer offered to fans in addition to their stream (Discord server, giveaways, etc) and reverse-engineered the work that they would have had to do behind the scenes to make it all happen. For example, if a streamer ran a community Discord server, they would have to moderate the server, post announcements, verify the sub/follower status of members, and more. Afterward, I reached out and interviewed several streamers to learn more about the specific streaming-related work they did consistent basis and their strategies for getting it done. I looked for mindless tasks that the streamer had to do weekly since that work was likely a pain point we could resolve for them through automation.
 
