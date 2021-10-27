@@ -24,10 +24,10 @@ I discovered that many streamers run Minecraft servers where only Twitch subscri
 
 ### Designing the Product
 
-Based on what I had learned from the streamers, I developed a list of minimum requirements for our product. If we were to build a solution to their problem, it would have to check certain boxes otherwise we wouldn’t be meeting their needs.  At this point, I brought in our lead engineer. I walked them through the user flows I’d created and made sure my product design was technically feasible within our limited timeframe. I worked closely with them as they built it, checking in frequently to make sure the end user's needs were being met. 
+Based on what I had learned from the streamers, I developed a list of minimum requirements for our product. If we were to build a solution to their problem, it would have to check certain boxes otherwise we wouldn’t be meeting their needs. I brought in our lead engineer to walk through the user flows I had created and made sure they were technically feasible within our limited timeframe. With the user flows, I made sure both the streamer's and their subscriber's experiences were accounted for so neither's needs were left behind. I worked closely with the engineer as they built it, answering questions they had about the design and ensuring the requirements were always being met.  
 
 ### Testing and Launch
 
-Once our product met all the minimum requirements, I tested it with a streamer and their fans. It met their needs and saved them a bunch of time! Yay! I sought feedback and we iterated our product. Now it was time to ship and finalize the pricing. Again, collaboration with our lead engineer was invaluable since they knew the uptime costs to run our product. Based on those costs and what I had learned about the spending habits of our target customers, I set the price and we rolled it out. 
+Once our product met all the minimum requirements, I tested it with a streamer and their fans. It met their needs and saved them a bunch of time! The user research I'd done had paid off. Yay! I sought feedback and we iterated our product to meet their needs even better. Now it was time to ship and finalize the pricing. Again, collaboration with our lead engineer was invaluable since they knew the uptime costs to run our product. Based on those costs and what I had learned about the spending habits of our target customers, I set the price and we rolled it out. 
 
 My first product launch was complete!
