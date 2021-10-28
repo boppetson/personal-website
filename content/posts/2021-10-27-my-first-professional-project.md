@@ -1,13 +1,13 @@
 ---
 template: post
 title: Launching a Product for the First Time
-slug: first-professional-project
+slug: launching-a-product-for-the-first-time
 socialImage: /media/ballons.png
 draft: false
 date: 2021-10-27T02:43:48.393Z
 description: |
   How I took my first product from nothing to something.
-category: Design
+category: Portfolio
 tags:
   - Design
   - Projects
