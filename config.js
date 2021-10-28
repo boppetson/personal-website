@@ -19,6 +19,14 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
+    {
+      label: 'Portfolio',
+      path: '/category/portfolio'
+    },
+    {
+    label: 'My Favorite Designs',
+    path: '/category/my-favorite-designs/'
+  }
   ],
   author: {
     name: 'Ben Davies',
