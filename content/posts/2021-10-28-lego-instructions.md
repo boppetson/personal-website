@@ -1,0 +1,11 @@
+---
+template: post
+title: Lego Instructions
+slug: favorite-designs/lego-instructions
+socialImage: /media/legoinstructions.png
+draft: true
+date: 2021-10-28T18:54:59.976Z
+description: " "
+category: My Favorite Designs
+---
+Lego instructions are well designed
