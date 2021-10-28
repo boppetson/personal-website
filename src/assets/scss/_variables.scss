@@ -4,11 +4,12 @@
 @use "sass:math";
 
 // Colors
-$color-base: #222;
-$color-primary: #5D93FF;
-$color-secondary: #F7A046;
 
-$color-white: #FFF;
+$color-base: #edf6f9;
+$color-primary: #48bfe3;
+$color-secondary: #90be6d;
+
+$color-white: #3d405b;
 $color-gray: lighten($color-base, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
