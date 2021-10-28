@@ -1,6 +1,6 @@
 ---
 template: post
-title: My First Professional Project
+title: Launching a Product for the First Time
 slug: first-professional-project
 socialImage: /media/ballons.png
 draft: false
