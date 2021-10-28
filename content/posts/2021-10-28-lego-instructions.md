@@ -1,7 +1,7 @@
 ---
 template: post
 title: Lego Instructions
-slug: favorite-designs/lego-instructions
+slug: my-favorite-designs/lego-instructions
 socialImage: /media/legoinstructions.png
 draft: true
 date: 2021-10-28T18:54:59.976Z
