@@ -18,7 +18,7 @@ Say I'm building [Hammond from *Overwatch*](https://www.lego.com/en-us/product/w
 
 ![Step 4 of the instructions from the Lego Hammond from Overwatch set](/media/instruction1.png "Step 4")
 
-Bam. I instantly know what to do. I need to get those 6 pieces. Then, I've gotta build that sub-section. Finally, I'll add that section to the main unit I've been building. This was a complex task made stupidly easy through good design.
+Bam. I instantly know what to do. I need to get those 6 pieces. Then, I've gotta build that sub-section in the yellow box. Finally, I'll add that section to the main unit I've been building. This was a complex task made stupidly easy through good design.
 
 There are a lot of smart design choices here that make the task easier. Too many to explore fully, but I'll mention a few of my favorites.
 
