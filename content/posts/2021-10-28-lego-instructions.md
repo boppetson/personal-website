@@ -7,6 +7,8 @@ draft: false
 date: 2021-10-28T18:54:59.976Z
 description: " "
 category: My Favorite Designs
+tags:
+  - Design
 ---
 I love Legos. Honestly, I think everyone does. As is the case with most mainstream products, a big reason for their popularity is their excellent design. Now, the Lego pieces themselves are great, but I was recently struck by just how good their instructions are too. Each page is a careful balance between visual clarity and the complexity that's required to move the building process along at a reasonable pace. 
 
@@ -34,4 +36,4 @@ Unfortunately, these "obvious" decisions aren't as obvious as they seem. Otherwi
 
 Hard to follow right? 
 
-The Lego designers show us this confusion isn't necessary. Good design like this doesn't just fall into place, it is a result of many deliberate steps with careful considertion of the user's needs at every one.
+The Lego designers show us that this confusion isn't necessary. Good design like theirs doesn't just fall into place. It is a result of many deliberate steps, each involving careful consideration of what the end user needs.
