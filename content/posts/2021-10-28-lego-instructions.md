@@ -8,7 +8,7 @@ date: 2021-10-28T18:54:59.976Z
 description: " "
 category: My Favorite Designs
 ---
-I love Legos. Honestly, I think everyone does. As is the case with most mainstream products, a big reason for their popularity is their excellent design. Now, the legos pieces themselves are great, but I was recently struck by just how good their instructions are too. Each page is a careful balance between visual clarity and the complexity that's required to move the building process along at a reasonable pace. 
+I love Legos. Honestly, I think everyone does. As is the case with most mainstream products, a big reason for their popularity is their excellent design. Now, the Lego pieces themselves are great, but I was recently struck by just how good their instructions are too. Each page is a careful balance between visual clarity and the complexity that's required to move the building process along at a reasonable pace. 
 
 Here's what I mean.
 
@@ -26,8 +26,12 @@ There are a lot of smart design choices here that make the task easier. Too many
 
 Some of these decisions are obvious. Like duh, you should make sequential steps flow down the page from top to bottom and left to right. Or duh, it's obviously a good idea to make things consistent between pages. 
 
-Unfortunately, these "obvious" decisions aren't as obvious as they seem. Otherwise, we wouldn't end up with so many poorly designed things. Just take a look at this instruction sheet for a chair I found on the internet. 
+Unfortunately, these "obvious" decisions aren't as obvious as they seem. Otherwise, we wouldn't end up with so many confusing, poorly designed things. Just take a look at this instruction sheet for a chair I found on the internet. 
 
 ![](/media/furniture-manual.png)
 
-Hard to follow right? What do I even do first? What do the all lines mean? Where's piece H in the PARTS list? Oh wait, there it is, the table restarts without a gap in seperating the two columns.
+*What do I even do first? What do the all lines mean? Where's piece H in the PARTS list? Oh wait, there it is, the table restarts without a gap in seperating the two columns.* 
+
+Hard to follow right? 
+
+The Lego designers show us this confusion isn't necessary. Good design like this doesn't just fall into place, it is a result of many deliberate steps with careful considertion of the user's needs at every one.
