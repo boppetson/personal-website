@@ -32,7 +32,7 @@ Unfortunately, these "obvious" decisions aren't as obvious as they seem. Otherwi
 
 ![](/media/furniture-manual.png)
 
-*What do I even do first? What do the all lines mean? Where's piece H in the PARTS list? Oh wait, there it is, the table restarts without a gap in seperating the two columns.* 
+*What do I even do first? What do the all lines mean? How do I know whether to use an M6 or an M8 washer?*
 
 Hard to follow right? 
 
