@@ -14,7 +14,7 @@ I love Legos. Honestly, I think everyone does. As is the case with most mainstre
 
 Here's what I mean.
 
-Say I'm building [Hammond from *Overwatch*](https://www.lego.com/en-us/product/wrecking-ball-75976)out of Legos. I just hit step 4 and now it's asking me to add 6 different pieces. That means I'll need to do 6+ actions all in one step! Eek, that's complex. Luckily, Lego's instruction designers are here to help. 
+Say I'm building [Hammond from *Overwatch*](https://www.lego.com/en-us/product/wrecking-ball-75976) out of Legos. I just hit step 4 and now it's asking me to add 6 different pieces. That means I'll need to do 6+ actions all in one step! Eek, that's complex. Luckily, Lego's instruction designers are here to help. 
 
 ![Step 4 of the instructions from the Lego Hammond from Overwatch set](/media/instruction1.png "Step 4")
 
