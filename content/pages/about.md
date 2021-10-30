@@ -3,7 +3,7 @@ template: page
 title: About me
 slug: about-me
 socialImage: /media/img_20191127_143835.jpg
-draft: true
+draft: false
 ---
 ## I’m Ben.
 
