@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: about-me
+slug: about
 socialImage: /media/img_20191127_143835.jpg
 draft: false
 ---
