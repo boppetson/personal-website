@@ -5,9 +5,9 @@ slug: about
 socialImage: /media/img_20191127_143835.jpg
 draft: false
 ---
-## I’m Ben.
+### I’m Ben.
 
-### I want to be a designer. 
+#### I want to be a designer. 
 
 I’m glad that’s easy to say now, but it was a long road towards that confidence. Lots of trial, error, and everything in between. Mainly, I didn’t have the word “design” to describe what I wanted to do. I like helping people, I like making things, and I love finding creative solutions to tough problems. Who knew design covers all that? Well, you might have, but I didn’t until now.
 
