@@ -15,15 +15,11 @@ I’m a senior in college studying sociology, but I’m also interested in a bun
 
 Previously, I thought design was only about art and small physical goods. In my mind, designers made good-looking posters and fancy chairs. It would be neat to be a designer, but neat is about as far as it got. At this point, I didn’t understand the impact that design could have and as a result, it wasn’t that appealing.
 
-*<br>*
-
 Here’s my current definition of design:
 
 *Design is solving problems for people. Good design has a positive impact.* 
 
 Sure, more could be added, but this feels all-inclusive. If you are a designer, maybe this definition is a no-brainer to you, but for me it was revolutionary. Design was no longer just about art and chairs. It was everything I wanted. It was creative problem-solving. It was helping. It was making stuff with a positive impact. Perfect for me.
-
-*<br>*
 
 Three realizations lead to this definition.
 
@@ -31,4 +27,4 @@ The first breakthrough came from my sociology classes. While sociologists might 
 
 ![Map of median household income data and industrical facility locations in Phoenix, AZ](/media/azfactoriesmhi.png "Map of median household income data and industrical facility locations in Phoenix, AZ")
 
-*`I made this. It shows the median household income for each Census tract in Phoenix, AZ. Darker areas have lower median incomes and vice versa. Each green dot represents an industrial facility/factory where pollution is emitted. Notice how facilities are most concentrated in poorer areas.`*
+> *I made this. It shows the median household income for each Census tract in Phoenix, AZ. Darker areas have lower median incomes and vice versa. Each green dot represents an industrial facility/factory where pollution is emitted. Notice how facilities are most concentrated in poorer areas.*
