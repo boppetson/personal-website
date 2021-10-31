@@ -28,5 +28,5 @@ The first breakthrough came from my sociology classes. While sociologists might 
 ![Map of median household income data and industrical facility locations in Phoenix, AZ](/media/azfactoriesmhi.png "Map of median household income data and industrical facility locations in Phoenix, AZ")
 
 > *I made this. It shows the median household income for each Census tract in Phoenix, AZ. Darker areas have lower median incomes and vice versa. Each green dot represents an industrial facility/factory where pollution is emitted. Notice how facilities are most concentrated in poorer areas.*
->
-> Realizing this was a bit horrifying. Suddenly, society’s ills were no longer “just the way things are.” Now, real people were responsible for them. Real people made the decisions that left people homeless, hungry, or dead. Real people caused harm. Fortunately, there was a silver lining. With the power to cause widespread harm, also comes the power to do good on the same scale. The difference lies in how you design.
+
+Realizing this was a bit horrifying. Suddenly, society’s ills were no longer “just the way things are.” Now, real people were responsible for them. Real people made the decisions that left people homeless, hungry, or dead. Real people caused harm. Fortunately, there was a silver lining. With the power to cause widespread harm, also comes the power to do good on the same scale. The difference lies in how you design.
