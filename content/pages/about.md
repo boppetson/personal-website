@@ -38,3 +38,17 @@ I did what I *thought* was design, but it totally wasn’t… Sure, I designed t
 ![What you have to think about to create value.](/media/think-about.png "Think about...    to create value.")
 
 It’s embarrassing to think back on how wrong I was. I messed up real bad, but I grew from it. I started thinking! As a result, my ability to design got a lot better.
+
+After learning to appreciate the thought that’s required to get design right, I started noticing the work that other designers had done in the world. My friends are ~~probably~~ sick of me constantly pointing out good design ([some of my favorite designs](https://bendavies.life/category/my-favorite-designs)). The joy I felt as I thought about design was a signal that I should make a serious attempt at being a designer.
+
+So, I got more serious. I started telling people it’s what I wanted to do. I started doing research on what I needed to learn. I started taking design classes at my school. My parents even bought me books about design for my birthday. *Now that was serious.*
+
+One of those books prompted my most recent realization about design. It was Mike Monteiro’s *Ruined by Design*. At first glance, the name of the book made it seem like my parents were trying to convince me *not* to become a designer. Instead, I got a much-needed briefing before I ventured off into the world. It taught me that designers need to be gatekeepers. They should do everything in their power to prevent harmful products from reaching users. If I’m going to be a designer, I need to ask why and say no to projects that I know will cause harm, even if that gets me fired. Just like a company that dumps chemicals into a town’s water supply, a designer who releases a harmful product into the world should be held accountable, regardless if they knew it would cause harm or not. It’s their responsibility to know. 
+
+Being a gatekeeper is part of the design process. A designer’s #1 goal is to solve someone’s problem. If they design something that causes harm to that person, they sure as hell aren’t solving the problem. The value that a designer brings isn’t directed to the company whom the designer works for; it’s for the user. Always and forever. Designers serve users. Companies get their value from users whose problems have been solved and are willing to give something up in return. 
+
+Through the past few years, I grew and so did my definition of design. I started with the misconception that designers had no substantive impact. I learned that the world is designed and the way it’s designed has serious consequences on people’s lives. People can live and die by design. I figured out through failure that design requires a lot of thought to get right. In fact, it’s the thought that makes a design worth anything. Finally, I got a pep talk about the importance of being a gatekeeper. Designers have a responsibility to serve the people they are designing for above all else. 
+
+For all these reasons, I want to be a designer.
+
+I want to help people, I want to solve their problems, and I want to have a positive impact.
