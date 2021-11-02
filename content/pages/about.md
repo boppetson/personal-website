@@ -5,7 +5,13 @@ slug: about
 socialImage: /media/img_20191127_143835.jpg
 draft: false
 ---
-### I’m Ben.
+### The short
+
+I’m a senior studying sociology at Colorado College and a self-taught designer. I want to help people by solving their problems. I went into design because I saw the power it has to impact others. Previously, I built an ecommerce site to sell fresh produce from local farms to my neighbors. I also helped a startup grow to a $10 million evaluation. When I’m not working, I cook, play Overwatch, and read.
+
+<br>
+
+### The long
 
 #### I want to be a designer. 
 
