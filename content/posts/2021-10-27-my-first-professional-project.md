@@ -6,7 +6,7 @@ socialImage: /media/ballons.png
 draft: false
 date: 2021-10-27T02:43:48.393Z
 description: |
-  How I designed a tool to relieve Twitch Streamers 
+  How I designed a tool to reduce Twitch Streamers's workloads
 category: Portfolio
 tags:
   - Design
