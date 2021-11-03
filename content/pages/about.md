@@ -5,13 +5,13 @@ slug: about
 socialImage: /media/img_20191127_143835.jpg
 draft: false
 ---
-### The short
+# The short
 
 I’m a senior studying sociology at Colorado College and a self-taught designer. I want to help people by solving their problems. I went into design because I saw the power it has to impact others. Previously, I built an ecommerce site to sell fresh produce from local farms to my neighbors. I also helped a startup grow to a $10 million evaluation. When I’m not working, I cook, play Overwatch, and read.
 
 <br>
 
-### The long
+# The long
 
 #### I want to be a designer. 
 
@@ -60,8 +60,6 @@ One of those books prompted my most recent realization about design. It was Mike
 Being a gatekeeper is part of the design process. A designer’s #1 goal is to solve someone’s problem. If they design something that causes harm to that person, they sure as hell aren’t solving the problem. The value that a designer brings isn’t directed to the company whom the designer works for; it’s for the user. Always and forever. Designers serve users. Companies get their value from users whose problems have been solved and are willing to give something up in return. 
 
 Through the past few years, I grew and so did my definition of design. I started with the misconception that designers had no substantive impact. I learned that the world is designed and the way it’s designed has serious consequences on people’s lives. People can live and die by design. I figured out through failure that design requires a lot of thought to get right. In fact, it’s the thought that makes a design worth anything. Finally, I got a pep talk about the importance of being a gatekeeper. Designers have a responsibility to serve the people they are designing for above all else. 
-
-
 
 ### For all these reasons, I want to be a designer.
 
