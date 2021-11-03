@@ -12,7 +12,7 @@ tags:
   - Design
   - Projects
 ---
-My last job was at a startup with a team of four. I was not an engineer, which means I worked on everything else.  Design, business strategy, customer acquisition, and more. This was perfect since I could learn a variety of skills and try new disciplines. During this journey of personal growth, I led my first professional project start to finish and launched a product! Here's the story:
+During my junior year of college, I worked at a tech startup with a team of four. I was not an engineer, which means I worked on everything else.  Design, business strategy, customer acquisition, and more. This was perfect since I could learn a variety of skills and try new disciplines. During this journey of personal growth, I led my first professional project from start to finish and designed a product! Here's the story:
 
 ### User Research
 
