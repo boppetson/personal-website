@@ -12,7 +12,7 @@ tags:
   - Design
   - Projects
 ---
-My last job was at a startup with a team of four. I was not an engineer, which means I worked on everything else.  Business strategy, design, customer acquisition, and more. This was perfect since I could learn a variety of skills and try new disciplines. During this journey of personal growth, I led my first professional project start to finish and launched a product! Here's the story:
+My last job was at a startup with a team of four. I was not an engineer, which means I worked on everything else.  Design, business strategy, customer acquisition, and more. This was perfect since I could learn a variety of skills and try new disciplines. During this journey of personal growth, I led my first professional project start to finish and launched a product! Here's the story:
 
 ### User Research
 
@@ -29,10 +29,8 @@ I discovered that many streamers run Minecraft servers where only their Twitch s
 Based on what I had learned from the streamers, I developed a list of minimum requirements for our product. If we were to build a solution to their problem, it would have to check these boxes otherwise we wouldn’t be meeting their needs.
 
 1. Since the server-related upkeep work was a major pain point for streamers, I focused on making the process as short and simple as possible. My goal was to reduce the hours of work it normally took to just a few minutes.
-
 2. Additionally, streamers use a variety of hosting methods to host their Minecraft servers. Some host it themselves on their own computers and others use online services. If we were to implement a solution, it would have to work with a streamer's existing server infrastructure. Otherwise, the friction of switching to a different hosting method would cause annoyance or outright stop people from buying our product. 
-
-3. The fan experience was also important to consider since streamers want them to have the best possible time so they stick around. With the old process, fans would have to fill out a long form and then wait an undertermined amount of time to get access to the server. They might end up waiting 2 weeks since the process relied on the streamer setting aside time for it.  This had to be faster.
+3. The fan experience was also important to consider since streamers want them to have the best possible time so they stick around. With the old process, fans would have to fill out a long form and then wait an undetermined amount of time to get access to the server. They might end up waiting 2 weeks since the process relied on the streamer setting aside time for it.  This had to be faster.
 
 From these requirements, I created user flows for how our automation would work from both the streamer and the fan's perspective. I brought in our lead engineer and walked him through the flows to make sure they were technically feasible within our limited timeframe. I worked closely with the engineer as they built it, answering questions they had about the design and doing more user research when we were unsure about something. In the end, we managed to simplify all the upkeep work into one command that the streamer (or one of their moderators) could enter whenever a new subscriber wanted access to the server. 
 
