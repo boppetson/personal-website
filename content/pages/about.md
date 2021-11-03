@@ -27,7 +27,7 @@ Sure, more could be added, but this feels all-inclusive. If you are a designer, 
 
 Three realizations helped define design as what I wanted to do.
 
-### First Realization
+### Design has an impact
 
 The first breakthrough came from my sociology classes. While sociologists might not explicitly use the word ‘design,’ the whole discipline revolves around it. Sociology’s central theme is that the social, cultural, and physical environment you live in has an impact on you. Often, this environment is decided by other people. Put another way, how your environment is *designed* has a big effect on your life. For example, consider how high-polluting factories consistently get built in poor areas. If you live in one of those areas, then your health is partially determined (*designed*) by the people who chose to place factories near you. As the factories pump pollution into the air, the people living nearby breathe it in and die earlier. Someone’s decision to place the factory in that spot is directly responsible for a population’s worse life outcomes. Early deaths, by design.
 
@@ -37,7 +37,7 @@ The first breakthrough came from my sociology classes. While sociologists might 
 
 Realizing this was a bit horrifying. Suddenly, society’s ills were no longer “just the way things are.” Now, *real people* were responsible for them. Real people made the decisions that left people homeless, hungry, or dead. Real people caused harm. Fortunately, there was a silver lining. With the power to cause widespread harm, also comes the power to do good on the same scale. The difference lies in how you design.
 
-### Second Realization
+### Design takes thought
 
 The second realization happened as I was working at a startup during my junior year. My friend founded the company and that’s how I got in. At first, it was a low-stakes hackathon, but quickly the company’s future seemed more promising and the stakes got higher. More was on the line; investors wanted to see results. I could no longer be ‘nice to have around.’ I had to deliver value like a full-time employee. We all chose roles to own so I chose design. I didn’t know anything about design, but I wanted to learn. 
 
@@ -53,7 +53,7 @@ After learning to appreciate the thought that’s required to get design right, 
 
 So, I got more serious. I started telling people it’s what I wanted to do. I started doing research on what I needed to learn. I started taking design classes at my school. My parents even bought me books about design for my birthday. *Now that was serious.*
 
-### Third Realization
+### Designers need to be gatekeepers
 
 One of those books prompted my most recent realization about design. It was Mike Monteiro’s *Ruined by Design*. At first glance, the name of the book made it seem like my parents were trying to convince me *not* to become a designer. Instead, I got a much-needed briefing before I ventured off into the world. It taught me that designers need to be gatekeepers. They should do everything in their power to prevent harmful products from reaching users. If I’m going to be a designer, I need to ask why and say no to projects that I know will cause harm, even if that gets me fired. Just like a company that dumps chemicals into a town’s water supply, a designer who releases a harmful product into the world should be held accountable, regardless if they knew it would cause harm or not. It’s their responsibility to know. 
 
