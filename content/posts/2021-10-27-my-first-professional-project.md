@@ -28,6 +28,6 @@ Based on what I had learned from the streamers, I developed a list of minimum re
 
 ### Testing and Launch
 
-Once our product met all the minimum requirements, I tested it with a streamer and their fans. It met their needs and saved them a bunch of time! The user research I'd done had paid off. Yay! I sought feedback and we iterated our product to meet their needs even better. Now it was time to ship and finalize the pricing. Again, collaboration with our lead engineer was invaluable since they knew the uptime costs to run our product. Based on those costs and what I had learned about the spending habits of our target customers, I set the price and we rolled it out. 
+Once our product met all the minimum requirements, I tested it with a streamer and their fans. It met their needs and saved them a bunch of time! They were super happy. The user research I'd done had paid off. Yay! I sought feedback and we iterated our product to meet their needs even better. Now it was time to ship and finalize the pricing. Again, collaboration with our lead engineer was invaluable since they knew the uptime costs to run our product. Based on those costs and what I had learned about the spending habits of our target customers, I set the price and we rolled it out. 
 
 My first product launch was complete!
