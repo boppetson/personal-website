@@ -19,13 +19,15 @@ I’m glad that’s easy to say now, but it was a long road towards that confide
 
 Previously, I thought design was only about art and small physical goods. In my mind, designers made good-looking posters and fancy chairs. It would be neat to be a designer, but neat is about as far as it got. At this point, I didn’t understand the impact that design could have and as a result, it wasn’t that appealing.
 
-Here’s my current definition of design:
+### My current definition of design
 
 *Design is solving problems for people. Good design has a positive impact.* 
 
 Sure, more could be added, but this feels all-inclusive. If you are a designer, maybe this definition is a no-brainer to you, but for me it was revolutionary. Design was no longer just about art and chairs. It was everything I wanted. It was creative problem-solving. It was helping. It was making stuff with a positive impact. Perfect for me.
 
 Three realizations helped define design as what I wanted to do.
+
+### First Realization
 
 The first breakthrough came from my sociology classes. While sociologists might not explicitly use the word ‘design,’ the whole discipline revolves around it. Sociology’s central theme is that the social, cultural, and physical environment you live in has an impact on you. Often, this environment is decided by other people. Put another way, how your environment is *designed* has a big effect on your life. For example, consider how high-polluting factories consistently get built in poor areas. If you live in one of those areas, then your health is partially determined (*designed*) by the people who chose to place factories near you. As the factories pump pollution into the air, the people living nearby breathe it in and die earlier. Someone’s decision to place the factory in that spot is directly responsible for a population’s worse life outcomes. Early deaths, by design.
 
@@ -34,6 +36,8 @@ The first breakthrough came from my sociology classes. While sociologists might 
 > *I made this. It shows the median household income for each Census tract in Phoenix, AZ (my hometown). Darker areas have lower median incomes and vice versa. Each green dot represents an industrial facility/factory where pollution is emitted. Notice how facilities are most concentrated in poorer areas.*
 
 Realizing this was a bit horrifying. Suddenly, society’s ills were no longer “just the way things are.” Now, *real people* were responsible for them. Real people made the decisions that left people homeless, hungry, or dead. Real people caused harm. Fortunately, there was a silver lining. With the power to cause widespread harm, also comes the power to do good on the same scale. The difference lies in how you design.
+
+### Second Realization
 
 The second realization happened as I was working at a startup during my junior year. My friend founded the company and that’s how I got in. At first, it was a low-stakes hackathon, but quickly the company’s future seemed more promising and the stakes got higher. More was on the line; investors wanted to see results. I could no longer be ‘nice to have around.’ I had to deliver value like a full-time employee. We all chose roles to own so I chose design. I didn’t know anything about design, but I wanted to learn. 
 
@@ -49,12 +53,16 @@ After learning to appreciate the thought that’s required to get design right, 
 
 So, I got more serious. I started telling people it’s what I wanted to do. I started doing research on what I needed to learn. I started taking design classes at my school. My parents even bought me books about design for my birthday. *Now that was serious.*
 
+### Third Realization
+
 One of those books prompted my most recent realization about design. It was Mike Monteiro’s *Ruined by Design*. At first glance, the name of the book made it seem like my parents were trying to convince me *not* to become a designer. Instead, I got a much-needed briefing before I ventured off into the world. It taught me that designers need to be gatekeepers. They should do everything in their power to prevent harmful products from reaching users. If I’m going to be a designer, I need to ask why and say no to projects that I know will cause harm, even if that gets me fired. Just like a company that dumps chemicals into a town’s water supply, a designer who releases a harmful product into the world should be held accountable, regardless if they knew it would cause harm or not. It’s their responsibility to know. 
 
 Being a gatekeeper is part of the design process. A designer’s #1 goal is to solve someone’s problem. If they design something that causes harm to that person, they sure as hell aren’t solving the problem. The value that a designer brings isn’t directed to the company whom the designer works for; it’s for the user. Always and forever. Designers serve users. Companies get their value from users whose problems have been solved and are willing to give something up in return. 
 
 Through the past few years, I grew and so did my definition of design. I started with the misconception that designers had no substantive impact. I learned that the world is designed and the way it’s designed has serious consequences on people’s lives. People can live and die by design. I figured out through failure that design requires a lot of thought to get right. In fact, it’s the thought that makes a design worth anything. Finally, I got a pep talk about the importance of being a gatekeeper. Designers have a responsibility to serve the people they are designing for above all else. 
 
-For all these reasons, I want to be a designer.
+
+
+### For all these reasons, I want to be a designer.
 
 I want to help people, I want to solve their problems, and I want to have a positive impact.
