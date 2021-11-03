@@ -2,7 +2,7 @@
 template: post
 title: "Twitch Streamer Automation: Case Study"
 slug: twitch-streamer-automation
-socialImage: /media/ballons.png
+socialImage: /media/streamerwork.png
 draft: false
 date: 2021-10-27T02:43:48.393Z
 description: |
