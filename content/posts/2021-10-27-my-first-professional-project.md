@@ -44,7 +44,7 @@ Additionally, streamers use a variety of hosting methods to host their Minecraft
 
 ### 3. Faster fan access
 
-The fan experience was also important to consider since streamers want them to have the best possible time so they stick around. With the old process, fans would have to fill out a long form and then wait an undetermined amount of time to get access to the server. They might end up waiting 2 weeks since the process relied on the streamer setting aside time for it.  This had to be faster.
+The fan experience was also important since streamers want them to have the best possible time so they stick around. With the old process, fans would have to fill out a long form and then wait an undetermined amount of time to get access to the server. They might end up waiting 2 weeks since the process relied on the streamer setting aside time for it.  This had to be faster.
 
 From these requirements, I created user flows for how our automation would work from both the streamer and the fan's perspective. I brought in our lead engineer and walked him through the flows to make sure they were technically feasible within our limited timeframe. I worked closely with the engineer as they built it, answering questions they had about the design and doing more user research when we were unsure about something. In the end, we managed to simplify all the upkeep work into one command that the streamer (or one of their moderators) could enter whenever a new subscriber wanted access to the server. 
 
