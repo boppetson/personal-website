@@ -14,13 +14,19 @@ tags:
 ---
 During my junior year of college, I worked at a tech startup with a team of four. I was not an engineer, which means I worked on everything else.  Design, business strategy, customer acquisition, and more. This was perfect since I could learn a variety of skills and try new disciplines. During this journey of personal growth, I led my first professional project from start to finish and designed a product! Here's the story:
 
+
+
 ## User Research
 
-We knew Twitch streamers generally had a lot of work to do to run their channel and grow their community. We wanted to know what we could build for them to reduce their workload. First, we had to learn about our users. I started by sitting in on a sample of Twitch streams. I noted what each streamer offered to fans in addition to their stream (Discord server, giveaways, etc) and reverse-engineered the work that they would have had to do behind the scenes to make it all happen. For example, if a streamer ran a community Discord server, they would have to moderate the server, post announcements, engage with fans, and more. Afterward, I reached out and interviewed several streamers to learn more about the specific streaming-related work they did consistent basis and their strategies for getting it done. I looked for mindless tasks that the streamer had to do weekly since that work was likely a pain point we could resolve for them through automation.
+We knew Twitch streamers generally had a lot of work to do to run their channel and grow their community. We wanted to know what we could build for them to reduce their workload. 
+
+First, we had to learn about our users. I started by sitting in on a sample of Twitch streams. I noted what each streamer offered to fans in addition to their stream (Discord server, giveaways, etc) and reverse-engineered the work that they would have had to do behind the scenes to make it all happen. For example, if a streamer ran a community Discord server, they would have to moderate the server, post announcements, engage with fans, and more. Afterward, I reached out and interviewed several streamers to learn more about the specific streaming-related work they did consistent basis and their strategies for getting it done. I looked for mindless tasks that the streamer had to do weekly since that work was likely a pain point we could resolve for them through automation.
 
 ![What a streamer offers translated into the work they'll have to do](/media/streamerwork.png "What a streamer offers translated into the work they'll have to do")
 
-I discovered that many streamers run Minecraft servers where only their Twitch subscribers are allowed to join. These “sub-only” servers were very popular with their fans and brought in a lot of subscription revenue since fans would sub to gain access. However, running a server required a lot of tedious upkeep from the streamer. From those I talked to, the server-related work was such a burden that many streamers either never started a server despite wanting to or stopped their servers soon after starting them, even though they were profitable. To run a server, a streamer would have to collect Minecraft usernames from fans through a form, keep those responses in a spreadsheet, manually check if someone was a Twitch sub, and then add their name to the server’s whitelist. It was painfully laborious. Perfect for us.
+I discovered that many streamers run Minecraft servers where only their Twitch subscribers are allowed to join. These “sub-only” servers were very popular with their fans and brought in a lot of subscription revenue since fans would sub to gain access. However, running a server required a lot of tedious upkeep from the streamer. From those I talked to, the server-related work was such a burden that many streamers either never started a server despite wanting to or stopped their servers soon after starting them, even though they were profitable. 
+
+To run a server, a streamer would have to collect Minecraft usernames from fans through a form, keep those responses in a spreadsheet, manually check if someone was a Twitch sub, and then add their name to the server’s whitelist. It was painfully laborious. Perfect for us.
 
 ![Sub-only Minecraft server](/media/subonlyserver.png "Sub-only Minecraft server")
 
@@ -44,6 +50,6 @@ From these requirements, I created user flows for how our automation would work 
 
 ## Testing and Launch
 
-Once our product met all the minimum requirements, I tested it with a streamer and sought feedback. It met their needs! The streamer was happy since it reduced their server-related work from several hours to only minutes each week. Fans were also excited by the change since the sign-up process was much easier for them and they got access to the server almost instantly.
+Once our product met all the requirements, I tested it with a streamer and sought feedback. It met their needs! The streamer was happy since it reduced their server-related work from several hours to only minutes each week. Fans were also excited by the change since the sign-up process was much easier for them and they got access to the server almost instantly.
 
 The user research I'd done had paid off. Yay! Now it was time to ship and finalize the pricing. Again, collaboration with our lead engineer was invaluable since they knew the uptime costs to run our software. Based on those costs and what I had learned about the spending habits of our target customers, I set the price and we rolled it out.
