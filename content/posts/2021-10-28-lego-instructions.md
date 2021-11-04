@@ -22,13 +22,21 @@ Bam. I instantly know what to do. I need to get those 6 pieces. Then, I've gotta
 
 There are a lot of smart design choices here that make the task easier. Too many to explore fully, but I'll mention a few of my favorites.
 
+### Consistency
+
 * Every step has its required pieces in the top left. The placement of this box never changes. If you get lost or don't know if you have the right piece, you can always return to safety in the top left.
-* New stuff is always introduced in relation to what you already know. The goal of step 4 is to build a sub-section. The designers purposfully included the main unit (something you are well familiar with at this point) in the step. Thus, there's no confusion as to the sub-section's purpose: it's going to get added to the unit.
+
+### Relate new to the old
+
+* New concepts are always introduced in relation to what you already know. The goal of step 4 is to build a subsection. The designers visually included the main unit (something you are well familiar with at this point) in the step. Thus, there's no confusion as to the sub-section's purpose: it's going to get added to the unit.
+
+### Clear visual hierarchy
+
 * The visual hierarchy lets me know exactly the order in which I need to do things. Top left: start by gathering the required parts. Middle: build up the sub-section. Bottom right: add it to the unit. 
 
 Some of these decisions are obvious. Like duh, you should make sequential steps flow down the page from top to bottom and left to right. Or duh, it's obviously a good idea to make things consistent between pages. 
 
-Unfortunately, these "obvious" decisions aren't as obvious as they seem. Otherwise, we wouldn't end up with so many confusing, poorly designed things. Just take a look at this instruction sheet for a chair I found on the internet. 
+Unfortunately, these "obvious" decisions aren't as obvious as they seem. Otherwise, we wouldn't end up with so many confusing, poorly-designed things. Just take a look at this instruction sheet for a chair I found on the internet. 
 
 ![](/media/furniture-manual.png)
 
@@ -36,4 +44,4 @@ Unfortunately, these "obvious" decisions aren't as obvious as they seem. Otherwi
 
 Hard to follow right? 
 
-The Lego designers show us that this confusion isn't necessary. Good design like theirs doesn't just fall into place. It is a result of many deliberate steps, each involving careful consideration of what the end user needs.
+The Lego designers show us that this confusion isn't necessary, but it requires work to eliminate. Good design doesn't just happen. It is a result of many deliberate steps, each involving careful consideration of what the end-user needs.
