@@ -40,7 +40,7 @@ Since the server-related upkeep work was a major pain point for streamers, I foc
 
 ### 2. Play nice with existing server infrastructure
 
-Additionally, streamers use a variety of hosting methods to host their Minecraft servers. Some host it themselves on their own computers and others use online services. If we were to implement a solution, it would have to work with a streamer's existing server infrastructure. Otherwise, the friction of switching to a different hosting method would cause annoyance or outright stop people from buying our product. 
+Additionally, streamers use a variety of hosting methods to host their Minecraft servers. Some host it themselves on their own computers and others use online services. If we were to implement a solution, it would have to work with a streamer's existing server infrastructure. Otherwise, the friction of switching to a different hosting method would cause annoyance or outright stop people from trying our product. 
 
 ### 3. Faster fan access
 
