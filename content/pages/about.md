@@ -49,7 +49,7 @@ I did what I *thought* was design, but it totally wasn’t… Sure, I designed t
 
 It’s embarrassing to think back on how wrong I was. I messed up real bad, but I grew from it. I started thinking! As a result, my ability to design got a lot better.
 
-After learning to appreciate the thought that’s required to get design right, I started noticing the work that other designers had done in the world. My friends are ~~probably~~ sick of me constantly pointing out good design ([some of my favorite designs](https://bendavies.life/category/my-favorite-designs)). The joy I felt as I thought about design was a signal that I should make a serious attempt at being a designer.
+After learning to appreciate the thought that’s required to get design right, I started noticing the work that other designers had done in the world. My friends are ~~probably~~ sick of me constantly pointing out good design when I come across it ([some of my favorite designs](https://bendavies.life/category/my-favorite-designs)). The joy I felt as I thought about design was a signal that I should make a serious attempt at being a designer.
 
 So, I got more serious. I started telling people it’s what I wanted to do. I started doing research on what I needed to learn. I started taking design classes at my school. My parents even bought me books about design for my birthday. *Now that was serious.*
 
