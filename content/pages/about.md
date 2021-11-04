@@ -17,7 +17,9 @@ I’m a senior studying sociology at Colorado College and a self-taught designer
 
 I’m glad that’s easy to say now, but it was a long road towards that confidence. Lots of trial, error, and everything in between. Mainly, I didn’t have the word “design” to describe what I wanted to do.
 
-**I like helping people, I like making things, and I love finding creative solutions to tough problems.** Who knew design covers all that? Well, you might have, but I didn’t until now.
+##### **I like helping people, I like making things, and I love finding creative solutions to tough problems.** 
+
+Who knew design covers all that? Well, you might have, but I didn’t until now.
 
 Previously, I thought design was only about art and small physical goods. In my mind, designers made good-looking posters and fancy chairs. It would be neat to be a designer, but neat is about as far as it got. At this point, I didn’t understand the impact that design could have and as a result, it wasn’t that appealing.
 
