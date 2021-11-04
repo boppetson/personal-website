@@ -13,11 +13,11 @@ I’m a senior studying sociology at Colorado College and a self-taught designer
 
 ## *The long*
 
-> #### I want to be a designer. 
+#### I want to be a designer. 
 
 I’m glad that’s easy to say now, but it was a long road towards that confidence. Lots of trial, error, and everything in between. Mainly, I didn’t have the word “design” to describe what I wanted to do.
 
-> ##### **I like helping people, I like making things, and I love finding creative solutions to tough problems.** 
+#### **I like helping people, I like making things, and I love finding creative solutions to tough problems.** 
 
 Who knew design covers all that? Well, you might have, but I didn’t until now.
 
