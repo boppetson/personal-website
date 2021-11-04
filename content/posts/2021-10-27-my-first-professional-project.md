@@ -14,13 +14,11 @@ tags:
 ---
 During my junior year of college, I worked at a tech startup with a team of four. I was not an engineer, which means I worked on everything else.  Design, business strategy, customer acquisition, and more. This was perfect since I could learn a variety of skills and try new disciplines. During this journey of personal growth, I led my first professional project from start to finish and designed a product! Here's the story:
 
-
-
 ## User Research
 
 We knew Twitch streamers generally had a lot of work to do to run their channel and grow their community. We wanted to know what we could build for them to reduce their workload. 
 
-First, we had to learn about our users. I started by sitting in on a sample of Twitch streams. I noted what each streamer offered to fans in addition to their stream (Discord server, giveaways, etc) and reverse-engineered the work that they would have had to do behind the scenes to make it all happen. For example, if a streamer ran a community Discord server, they would have to moderate the server, post announcements, engage with fans, and more. Afterward, I reached out and interviewed several streamers to learn more about the specific streaming-related work they did consistent basis and their strategies for getting it done. I looked for mindless tasks that the streamer had to do weekly since that work was likely a pain point we could resolve for them through automation.
+First, I had to learn about our users. I started by sitting in on a sample of Twitch streams. I noted what each streamer offered to fans in addition to their stream (Discord server, giveaways, etc) and reverse-engineered the work that they would have had to do behind the scenes to make it all happen. For example, if a streamer ran a community Discord server, they would have to moderate the server, post announcements, engage with fans, and more. Afterward, I reached out and interviewed several streamers to learn more about the specific streaming-related work they did consistent basis and their strategies for getting it done. I looked for mindless tasks that the streamer had to do weekly since that work was likely a pain point we could resolve for them through automation.
 
 ![What a streamer offers translated into the work they'll have to do](/media/streamerwork.png "What a streamer offers translated into the work they'll have to do")
 
