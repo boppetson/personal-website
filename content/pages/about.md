@@ -7,21 +7,21 @@ draft: false
 ---
 ## *The short*
 
-I’m a senior studying sociology at Colorado College and a self-taught designer. I want to help people by solving their problems. I went into design because I saw the power it has to impact others. Previously, I built an ecommerce site to sell fresh produce from local farms to my neighbors. I also helped a startup grow to a $10 million evaluation. When I’m not working, I cook, play Overwatch, and read.
+I’m a senior studying sociology at Colorado College and a self-taught designer.  I went into design because I want to make other people's lives better and design lets me do that on a big scale. Previously, I built an [ecommerce site](https://phxfood.coop/) to sell fresh produce from local farms to my neighbors. I also helped a [startup](https://contenda.co/) grow from 4 friends to a $10 million evaluation. When I’m not working, I cook, play Overwatch, and read.
 
 <br>
 
 ## *The long*
 
-#### I want to be a designer. 
+#### *I want to be a designer.* 
 
-I’m glad that’s easy to say now, but it was a long road towards that confidence. Lots of trial, error, and everything in between. Mainly, I didn’t have the word “design” to describe what I wanted to do.
+I’m glad that’s easy to say now, but it was a long road towards that confidence. Lots of trial, error, and everything in between. Until now, I didn’t have the word “design” to describe the work I love to do.
 
-#### **I like helping people, I like making things, and I love finding creative solutions to tough problems.** 
+#### ***I like helping people, I like making things, and I love finding creative solutions to tough problems.***
 
-Who knew design covers all that? Well, you might have, but I didn’t until now.
+Who knew design covers all that? Well, you might have, but I didn’t until my senior year.
 
-Previously, I thought design was only about art and small physical goods. In my mind, designers made good-looking posters and fancy chairs. It would be neat to be a designer, but neat is about as far as it got. At this point, I didn’t understand the impact that design could have and as a result, it wasn’t that appealing.
+Previously, I thought design was only about art and small physical goods. In my mind, designers made good-looking posters and fancy chairs. It would be neat to be a designer, but neat is about as far as it got. I didn’t understand the impact that design could have and as a result, it wasn’t that appealing.
 
 ### My current definition of design
 
@@ -37,33 +37,33 @@ The first breakthrough came from my sociology classes. While sociologists might 
 
 ![Map of median household income data and industrical facility locations in Phoenix, AZ](/media/azfactoriesmhi.png "Map of median household income data and industrical facility locations in Phoenix, AZ")
 
-> *I made this. It shows the median household income for each Census tract in Phoenix, AZ (my hometown). Darker areas have lower median incomes and vice versa. Each green dot represents an industrial facility/factory where pollution is emitted. Notice how facilities are most concentrated in poorer areas.*
+> *I created this map to show how polluting facilities are often most concentrated in poorer areas. The gray blocks show the median household income for each Census tract in Phoenix, AZ (my hometown). Darker areas have lower median incomes and vice versa. Each green dot represents an industrial facility/factory where pollution is emitted.* 
 
 Realizing this was a bit horrifying. Suddenly, society’s ills were no longer “just the way things are.” Now, *real people* were responsible for them. Real people made the decisions that left people homeless, hungry, or dead. Real people caused harm. Fortunately, there was a silver lining. With the power to cause widespread harm, also comes the power to do good on the same scale. The difference lies in how you design.
 
 ### Design takes thought
 
-The second realization happened as I was working at a startup during my junior year. My friend founded the company and that’s how I got in. At first, it was a low-stakes hackathon, but quickly the company’s future seemed more promising and the stakes got higher. More was on the line; investors wanted to see results. I could no longer be ‘nice to have around.’ I had to deliver value like a full-time employee. We all chose roles to own so I chose design. I didn’t know anything about design, but I wanted to learn. 
+The second realization happened as I was working at a startup during my junior year. My friend founded the company and that’s how I got in. At first, it was a low-stakes hackathon, but quickly the company’s future seemed more promising and the stakes got higher. Investors wanted to see results and I had to deliver value like a full-time employee. We all chose roles to own so I chose design. I didn’t know anything about design, but I wanted to learn. 
 
-Before I started, the concept that ‘producing value took a lot of work’ hadn’t fully clicked with me yet. In theory, yes, I got it. Making stuff took work. My essays took work. Applying to internships took work. But when talking about working in a professional setting where getting it right was the difference between a company going under or not, I definitely didn’t get it. I didn’t respect the amount of work and deliberate thought that was required to produce something of legitimate value. This mentality reflected itself in how I worked and how I thought about design. As a consequence, I almost got fired from my first real job. 
+Before I started, the concept that ‘producing value took a lot of work’ hadn’t fully clicked with me yet. I didn’t respect the amount of work and deliberate thought that was required to produce something of legitimate value. This mentality reflected itself in how I worked and how I thought about design. As a consequence, I almost got fired from my first real job. 
 
-I did what I *thought* was design, but it totally wasn’t… Sure, I designed things, but that’s not design. That distinction is important. It’s what almost got me fired. Designers solve problems and I wasn’t solving anyone’s problem. I was making stuff for the sake of making stuff. My first project was a style guide. It solved nothing and was wasted productivity. Why? Well, style guides help maintain consistency between the work employees do. At a company of 4 with no product, it was unnecessary. We needed to build something valuable and talk to customers before we worried about visual consistency. 
+Designers solve problems and I wasn’t solving anyone’s problem. I was making stuff for the sake of making stuff. My first project was a style guide. Style guides help maintain consistency between the work employees do. At a company of 4 with no product, it was unnecessary and a waste of time. We needed to build something valuable and talk to customers before we worried about visual consistency. Instead, I should have started doing user research to understand our target customers and their problems.
 
 What was I thinking? Well, I wasn’t thinking and that was exactly the problem. I learned an important lesson. Design (like most professions) is all about thinking. Thinking is most of the work because thinking is how value gets created.
 
 ![What you have to think about to create value.](/media/think-about.png "Think about...    to create value.")
 
-It’s embarrassing to think back on how wrong I was. I messed up real bad, but I grew from it. I started thinking! As a result, my ability to design got a lot better.
+> *Something I made to help me work through how thinking and asking questions can create value.*
 
-After learning to appreciate the thought that’s required to get design right, I started noticing the work that other designers had done in the world. My friends are ~~probably~~ sick of me constantly pointing out good design when I come across it ([some of my favorite designs](https://bendavies.life/category/my-favorite-designs)). The joy I felt as I thought about design was a signal that I should make a serious attempt at being a designer.
+After learning to appreciate the thought that’s required to get design right, I started noticing the work that other designers had done in the world. My friends are ~~probably~~ sick of me constantly pointing out good design when I come across it ([examples](https://bendavies.life/category/my-favorite-designs)). The joy I felt as I thought about design was a signal that I should make a serious attempt at being a designer.
 
 So, I got more serious. I started telling people it’s what I wanted to do. I started doing research on what I needed to learn. I started taking design classes at my school. My parents even bought me books about design for my birthday. *Now that was serious.*
 
 ### Designers need to be gatekeepers
 
-One of those books prompted my most recent realization about design. It was Mike Monteiro’s *Ruined by Design*. At first glance, the name of the book made it seem like my parents were trying to convince me *not* to become a designer. Instead, I got a much-needed briefing before I ventured off into the world. It taught me that designers need to be gatekeepers. They should do everything in their power to prevent harmful products from reaching users. If I’m going to be a designer, I need to ask why and say no to projects that I know will cause harm, even if that gets me fired. Just like a company that dumps chemicals into a town’s water supply, a designer who releases a harmful product into the world should be held accountable, regardless if they knew it would cause harm or not. It’s their responsibility to know. 
+One of those books prompted my most recent realization about design. It was Mike Monteiro’s *Ruined by Design*. At first glance, the name of the book made it seem like my parents were trying to convince me *not* to become a designer. Instead, I got a much-needed briefing before I ventured off into the world. It taught me that designers need to be gatekeepers. They should do everything in their power to prevent harmful products from reaching users or harming others through their production. If I’m going to be a designer, I need to ask why and say no to projects that I know will cause harm, even if that gets me fired. Just like a company that dumps chemicals into a town’s water supply, a designer who releases a harmful product into the world should be held accountable, regardless if they knew it would cause harm or not. It’s their responsibility to know. 
 
-Being a gatekeeper is part of the design process. A designer’s #1 goal is to solve someone’s problem. If they design something that causes harm to that person, they sure as hell aren’t solving the problem. 
+Being a gatekeeper is part of the design process. A designer’s #1 goal is to solve people's problems. If they design something that causes harm, they sure as hell aren’t solving everyone's problems.
 
 Through the past few years, I grew and so did my definition of design. I started with the misconception that designers had no substantive impact. I learned that the world is designed and the way it’s designed has serious consequences on people’s lives. People can live and die by design. I figured out through failure that design requires a lot of thought to get right. In fact, it’s the thought that makes a design worth anything. Finally, I got a pep talk about the importance of being a gatekeeper. Designers have a responsibility to serve the people they are designing for above all else. 
 
