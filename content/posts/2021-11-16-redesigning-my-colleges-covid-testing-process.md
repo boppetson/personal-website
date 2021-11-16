@@ -18,11 +18,7 @@ tags:
 
 ![Initial reason for visit page redesign](/media/reason-for-visit.png "Initial reason for visit page redesign")
 
-
-
 ![Patient form redesign](/media/new-or-existing-patient.png "Patient form redesign")
-
-
 
 ![Date and time redesign](/media/date-and-time.png "Date and time redesign")
 
