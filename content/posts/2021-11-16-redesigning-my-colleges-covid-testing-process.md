@@ -34,7 +34,7 @@ It takes too long to get what you need from the email reminder. Almost all of th
 
 First, I put the contents of the document in the email itself so students wouldn’t have to download an email attachment just to get one link. Then, I moved the link to the top of the email so it’s one of the first things a student sees. 
 
-Finally, I reorganized and reformatted the text from the email attachment. There’s a lot of important information in there that’s hidden in a ‘wall of text’ that I, and likely most students, didn’t read ([F-shaped pattern of reading](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/)). To make it more scannable, I split the information into sections with headers and re-stylized the text so that only the most important things got special styling. If everything is bold, nothing is bold. With these changes, it’s a lot easier to quickly find the information you need.
+ I also reorganized and reformatted the text from the email attachment. There’s a lot of important information in there that’s hidden in a ‘wall of text’ that I, and likely most students, didn’t read ([F-shaped pattern of reading](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/)). To make it more scannable, I split the information into sections with headers and re-stylized the text so that only the most important things got special styling. If everything is bold, nothing is bold. With these changes, it’s a lot easier to quickly find the information you need.
 
 ## 2. Reason for Visit
 
