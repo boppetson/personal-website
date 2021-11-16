@@ -24,23 +24,13 @@ But the process still works: I can sign up for a Covid test and get my results w
 
 ## Why Redesign?
 
-My initial inspiration was totally selfish. I didn’t want to waste any more of my time signing up for Covid tests. While designing to not waste people’s time is a worthwhile pursuit, I discovered a more meaningful reason while doing research for this project. Students not creating appointments causes undue stress on the already-stressed medical staff at CC. 
+My initial inspiration was totally selfish. I didn’t want to waste any more of my time signing up for Covid tests. While designing to not waste people’s time is a worthwhile pursuit, I discovered a more meaningful reason while doing research for this project. **Students not creating appointments causes undue stress on the already-stressed medical staff at CC.** 
 
 I learned about this problem after talking to the manager at the health center where all our testing is done. She uses the number of appointments on a given day to schedule staff. If most of the students don’t make appointments (which is currently the case), she can’t predict how many staff she’ll need to handle student demand. Frequently, they end up over- or worse, understaffed, which is very stressful. A few days before we talked, she told me they had 100 appointments booked so she scheduled only a few people to work. However, when the day arrived, over 400 students walked in looking for a test and the few staff on duty had to frantically scramble to get the tests and the corresponding paperwork done.
 
 While getting a Covid test is never going to be an amazing experience, it should at least be as stress-free as possible for the medical staff administering the tests. In order for that to happen, more students need to make appointments. 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FbVKqu7Dlkk091eB4S1ikrq%2FAppointment-Tool-Redesign%3Fpage-id%3D0%253A1%26node-id%3D17%253A796%26viewport%3D241%252C48%252C0.05%26scaling%3Dscale-down-width%26starting-point-node-id%3D4%253A30" allowfullscreen></iframe>
 
-
-
-### Mobile
-
-I frequently schedule appointments on my phone and so do many of the students I talked to so making a mobile-friendly version was a priority. I personally found the current form’s mobile formatting to be too small and difficult to navigate. I added spacing between form fields to fix this. 
-
-You can view the mobile prototype below.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="380" height="425" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FbVKqu7Dlkk091eB4S1ikrq%2FAppointment-Tool-Redesign%3Fpage-id%3D77%253A476%26node-id%3D124%253A2843%26viewport%3D241%252C48%252C0.24%26scaling%3Dscale-down%26starting-point-node-id%3D124%253A2863" allowfullscreen></iframe>
 
 ### 1. Email Reminder and Testing Instructions
 
@@ -113,3 +103,47 @@ I saw many students show up to the health center at a different time or even ano
 To encourage more students to show up on time, I put more emphasis on the date and time throughout the appointment-making process. Right now, the date and time don’t stand out as particularly important since they are styled the same as all the other text so I made them bigger, colorful, and at the top of the page. 
 
 Additionally, I wanted the confirmation page to feel more like you had officially made an appointment. You made a commitment and you have to show up on time. A big title announcing that their appointment has been booked and a direct  “See you…” then will hopefully inspire that feeling.
+
+## Prototypes
+
+The full prototype can be explored below:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FbVKqu7Dlkk091eB4S1ikrq%2FAppointment-Tool-Redesign%3Fpage-id%3D0%253A1%26node-id%3D17%253A796%26viewport%3D241%252C48%252C0.05%26scaling%3Dscale-down-width%26starting-point-node-id%3D4%253A30" allowfullscreen></iframe>
+
+
+
+### Mobile
+
+![](/media/mobile.png)
+
+I frequently schedule appointments on my phone and so do many of the students I talked to so making a mobile-friendly version was a priority. I personally found the current form’s mobile formatting to be too small and difficult to navigate so I increased the spacing between form fields to fix this. 
+
+
+
+You can view the mobile prototype below.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="380" height="425" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FbVKqu7Dlkk091eB4S1ikrq%2FAppointment-Tool-Redesign%3Fpage-id%3D77%253A476%26node-id%3D124%253A2843%26viewport%3D241%252C48%252C0.24%26scaling%3Dscale-down%26starting-point-node-id%3D124%253A2863" allowfullscreen></iframe>
+
+## Intended Outcomes
+
+The main goal of my redesign is to encourage a greater percentage of students to make appointments. Here’s what I hope will happen as a result:
+
+1. #### Less stress for medical staff
+
+   They will be able to make more informed staffing decisions so health center workers aren’t left understaffed and stressed.  
+2. #### Reduced wait times
+
+   Since all CC students operate on the same daily schedule ([the Block plan](https://www.coloradocollege.edu/basics/blockplan/whats-a-block.html)), bottlenecks are frequent across campus. A lot of students walk in right after lunch and before breaks (fall break, weekends, [block breaks](https://www.coloradocollege.edu/basics/blockplan/blockbreak/index.html)). Thankfully, I’ve never seen a concerningly long line at the health center (max I’ve seen is ~8), but more appointments could mean almost no waiting ever since appointments would spread out the testing. Not to mention that lots of people bunched together in a line isn’t something you want during a pandemic.
+3. #### Students *might* get tested more
+
+   More testing is good and if the process is easier, more people might get tested. *However*, of the students I’ve talked to, no one told me they didn’t get tested because the appointment process was too annoying. If my design was implemented, I would want to compare the testing rates before and after to see if it had any effect.
+
+
+
+## What I'd Do Differently Next Time
+
+Overall, I was happy with the work I did and what I learned along the way. This was an opportunity to practice design methodologies.
+
+If I had the ability to, I would love to test my redesign with students and see how it affects their appointment-making rate. Based on my own experience and what I learned from other students, redesigning the process should help tremendously.
+
+Unfortunately, right as I was about present my work to the health center manager, our school announced that our testing process was changing. I haven’t seen yet what it looks like, but I’m sure hoping it’s a better process than what we have now.
