@@ -108,9 +108,7 @@ Additionally, I wanted the confirmation page to feel more like you had officiall
 
 The full prototype can be explored below:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FbVKqu7Dlkk091eB4S1ikrq%2FAppointment-Tool-Redesign%3Fpage-id%3D0%253A1%26node-id%3D17%253A796%26viewport%3D241%252C48%252C0.05%26scaling%3Dscale-down-width%26starting-point-node-id%3D4%253A30" allowfullscreen></iframe>
-
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FbVKqu7Dlkk091eB4S1ikrq%2FAppointment-Tool-Redesign%3Fpage-id%3D0%253A1%26node-id%3D4%253A30%26viewport%3D241%252C48%252C0.05%26scaling%3Dmin-zoom%26starting-point-node-id%3D4%253A30" allowfullscreen></iframe>
 
 ### Mobile
 
@@ -122,7 +120,7 @@ I frequently schedule appointments on my phone and so do many of the students I 
 
 You can view the mobile prototype below.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="380" height="425" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FbVKqu7Dlkk091eB4S1ikrq%2FAppointment-Tool-Redesign%3Fpage-id%3D77%253A476%26node-id%3D124%253A2843%26viewport%3D241%252C48%252C0.24%26scaling%3Dscale-down%26starting-point-node-id%3D124%253A2863" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="300" height="425" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FbVKqu7Dlkk091eB4S1ikrq%2FAppointment-Tool-Redesign%3Fpage-id%3D77%253A476%26node-id%3D124%253A2863%26viewport%3D241%252C48%252C0.24%26scaling%3Dscale-down%26starting-point-node-id%3D124%253A2863" allowfullscreen></iframe>
 
 ## Intended Outcomes
 
