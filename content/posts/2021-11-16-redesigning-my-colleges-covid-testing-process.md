@@ -32,6 +32,24 @@ While getting a Covid test is never going to be an amazing experience, it should
 
 
 
+## How might we encourage more students to make appointments?
+
+Since I’m a user, I had a pretty good guess as to what the main problems were. The patient form sucked and many steps in the process were unnecessarily time-consuming.
+
+To learn what parts of the process were most painful for everyone, not just myself, I talked to 12 other students about their experiences. Everyone agreed, the process sucks. 
+
+Apparently, it sucks so much for some of them that they skip the process altogether! I was not aware that this was even an option. According to all instructions from the health center, you are supposed to take make an appointment before coming in so that’s what I have always done. Other students found the process painful enough to skip it in the face of signs telling them not to. As I learned from the health center staff, this wasn’t a good outcome since it frequently left them understaffed and stressed out.
+
+I initially considered making appointments mandatory as a solution, but my conversation with the medical staff manager made that seem like a bad idea. They care a lot about students’ wellbeing and want those who need a test NOW to be able to get one. Forcing covid-stressed students to make an appointment isn’t something they want to do.
+
+To better understand the experiences of students at each step, I made a journey map.
+
+![Journey map of a student's experience with the Covid testing process, start to finish](/media/journey-map.png "Journey map of a student's experience with the Covid testing process, start to finish")
+
+Based on their experiences and pain points, I redesigned 5 core parts of the process. I’ve listed the problem and my solution for each part.
+
+
+
 ### 1. Email Reminder and Testing Instructions
 
 ![Email reminder and testing instructions redesign](/media/email.png "Email reminder and testing instructions redesign")
