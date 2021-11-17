@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://bendavies.life',
   pathPrefix: '/',
   title: 'Ben Davies',
-  subtitle: 'Sociology and tech. Colorado College senior. Overwatch team captain.',
+  subtitle: 'Sociology and design. Colorado College senior. Overwatch team captain.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Ben Davies',
     photo: '/photo.jpg',
-    bio: 'Sociology and tech. Colorado College senior. Overwatch team captain.',
+    bio: 'Sociology and design. Colorado College senior. Overwatch team captain.',
     contacts: {
       email: 'boppetson@gmail.com',
       linkedin: 'ben-davies-',
