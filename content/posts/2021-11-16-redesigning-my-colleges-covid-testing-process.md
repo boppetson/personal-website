@@ -34,15 +34,15 @@ While getting a Covid test is never going to be an amazing experience, it should
 
 ## How might we encourage more students to make appointments?
 
-Since I’m a user, I had a pretty good guess as to what the main problems were. The patient form sucked and many steps in the process were unnecessarily time-consuming.
+Since I’m a user, I had a pretty good guess as to what the main problems were. The patient form was tedious and many steps in the process weren't clear enough.
 
-To learn what parts of the process were most painful for everyone, not just myself, I talked to 12 other students about their experiences. Everyone agreed, the process sucks. 
+To learn what parts of the process were most painful for everyone, not just myself, I talked to 12 other students about their experiences. Everyone agreed that the process sucks and I was able to learn a little bit more about why it sucked from each person. 
 
-Apparently, it sucks so much for some of them that they skip the process altogether! I was not aware that this was even an option. According to all instructions from the health center, you are supposed to take make an appointment before coming in so that’s what I have always done. Other students found the process painful enough to skip it in the face of signs telling them not to. As I learned from the health center staff, this wasn’t a good outcome since it frequently left them understaffed and stressed out.
+One of my biggest discoveries was that people skip the appointment-making process altogether! I didn't realize this was even an option. According to all instructions from the health center, you are *supposed* to make an appointment before coming in. Other students found the process painful enough to skip it in the face of signs telling them not to! As I learned from the health center staff, this wasn’t a good outcome since it frequently left them understaffed and stressed out.
 
 I initially considered making appointments mandatory as a solution, but my conversation with the medical staff manager made that seem like a bad idea. They care a lot about students’ wellbeing and want those who need a test NOW to be able to get one. Forcing covid-stressed students to make an appointment isn’t something they want to do.
 
-To better understand the experiences of students at each step, I made a journey map.
+To better understand the experiences of students at each step, I created a journey map. I made sure to include the in-person parts of the process (physically going in to get tested) so I would get a full picture of the process, start to finish.  Using it helped me identify where the biggest problems were and thus, where I should focus my attention in my design.
 
 ![Journey map of a student's experience with the Covid testing process, start to finish](/media/journey-map.png "Journey map of a student's experience with the Covid testing process, start to finish")
 
