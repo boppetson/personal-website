@@ -24,6 +24,10 @@ module.exports = {
       path: '/category/portfolio'
     },
     {
+      label: 'Resume',
+      path: '/pages/resume'
+    },
+    {
     label: 'My Favorite Designs',
     path: '/category/my-favorite-designs/'
   }
