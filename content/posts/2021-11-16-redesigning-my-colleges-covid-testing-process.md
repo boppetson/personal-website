@@ -10,15 +10,13 @@ category: Portfolio
 tags:
   - Design
 ---
-
-
 ![](/media/covidtestreminder.png)
 
 > Not again...
 
 This is the email I get when my school decides it’s time for me to get another Covid test. Every week, a third of the student body (~750 people) is required to get tested. 
 
-Even though I think testing is the right thing to do, I dread seeing this email. Why? Because in order to get tested, I have to go through an online tool to book an appointment and the tool sucks. Using it takes way longer and requires more brainpower than it should. If I’m going to get tested repeatedly every month, I want that process to be as efficient as possible.
+Even though I think testing is the right thing to do, I dread seeing this email. Why? Because in order to get tested, I have to go through an online tool to book an appointment and it's *very* frustrating to use. It takes way longer and requires more brainpower than it should to complete. If I’m going to get tested repeatedly every month, I want that process to be as efficient as possible.
 
 But the process still works: I can sign up for a Covid test and get my results within a week. So why redesign it?
 
@@ -30,27 +28,31 @@ I learned about this problem after talking to the manager at the health center w
 
 While getting a Covid test is never going to be an amazing experience, it should at least be as stress-free as possible for the medical staff administering the tests. In order for that to happen, more students need to make appointments. 
 
-
-
 ## How might we encourage more students to make appointments?
 
-Since I’m a user, I had a pretty good guess as to what the main problems were. The patient form was tedious and many steps in the process weren't clear enough.
+My first step was to learn what the biggest pain points were. They reveal what’s essential to change if we want more students to make appointments.
 
-To learn what parts of the process were most painful for everyone, not just myself, I talked to 12 other students about their experiences. Everyone agreed that the process sucks and I was able to learn a little bit more about why it sucked from each person. 
+Conveniently, I was a user so I had some good first guesses as to what the main problems were. The patient form was tedious and many steps in the process weren't clear enough. To learn what parts of the process were most painful for everyone, not just myself, I talked to 12 other students about their experiences. 
 
-One of my biggest discoveries was that people skip the appointment-making process altogether! I didn't realize this was even an option. According to all instructions from the health center, you are *supposed* to make an appointment before coming in. Other students found the process painful enough to skip it in the face of signs telling them not to! As I learned from the health center staff, this wasn’t a good outcome since it frequently left them understaffed and stressed out.
+One of my biggest discoveries was that people skip the appointment-making process altogether! Before this project, I didn't realize this was even an option. According to all instructions from the health center, you are supposed to make an appointment before coming in. However, most of the students I talked to either never or infrequently made appointments. The process was so painful they skipped it in the face of signs telling them not to! As I learned from the health center staff, this wasn’t a good outcome since it frequently left them understaffed and stressed out.
 
-I initially considered making appointments mandatory as a solution, but my conversation with the medical staff manager made that seem like a bad idea. They care a lot about students’ wellbeing and want those who need a test NOW to be able to get one. Forcing covid-stressed students to make an appointment isn’t something they want to do.
-
-To better understand the experiences of students at each step, I created a journey map. I made sure to include the in-person parts of the process (physically going in to get tested) so I would get a full picture of the process, start to finish.  Using it helped me identify where the biggest problems were and thus, where I should focus my attention in my design.
+To better understand the experiences of students at each step, I created a journey map based on what everyone told me. Using it helped me identify where the biggest problems were and thus, where I should focus my attention in my design.
 
 ![Journey map of a student's experience with the Covid testing process, start to finish](/media/journey-map.png "Journey map of a student's experience with the Covid testing process, start to finish")
 
-Based on their experiences and pain points, I redesigned 5 core parts of the process. I’ve listed the problem and my solution for each part.
+From the journey map, I identified 5 major areas that needed redesigning if we want more students to make appointments:
 
+1. Email reminder and testing instructions
+2. Reason for visit
+3. Patient form
+4. Appointment confirmation
+5. Date and time
 
+I started by ideating solutions with paper prototypes so I could quickly test ideas. Once I felt like my design sufficiently resolved the pain points, I created higher fidelity Figma mockups.
 
-### 1. Email Reminder and Testing Instructions
+![Paper prototypes](/media/paper-prototypes.png "Paper prototypes")
+
+### 1. Email reminder and testing instructions
 
 ![Email reminder and testing instructions redesign](/media/email.png "Email reminder and testing instructions redesign")
 
@@ -64,7 +66,7 @@ First, I put the contents of the document in the email itself so students wouldn
 
  I also reorganized and reformatted the text from the email attachment. There’s a lot of important information in there that’s hidden in a ‘wall of text’ that I, and likely most students, didn’t read ([F-shaped pattern of reading](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/)). To make it more scannable, I split the information into sections with headers and re-stylized the text so that only the most important things got special styling. If everything is bold, nothing is bold. With these changes, it’s a lot easier to quickly find the information you need.
 
-### 2. Reason for Visit
+### 2. Reason for visit
 
 ![Initial reason for visit page redesign](/media/reason-for-visit.png "Initial reason for visit page redesign")
 
@@ -76,9 +78,7 @@ Splitting Covid-19 testing up by AM / PM doesn’t let people easily change thei
 
 I combined AM and PM into one option: Covid-19 testing. Then, students can pick from both AM and PM times and change their minds without having to backtrack.
 
-
-
-### 3. Patient Form
+### 3. Patient form
 
 ![Patient form redesign](/media/new-or-existing-patient.png "Patient form redesign")
 
@@ -94,21 +94,7 @@ New patients fill out the complete form so the health center gets all the necess
 
 I also grouped the new patient fields into sections (Personal, Contact, and Insurance) to reduce the cognitive load associated with filling out the form. That way, you can complete one information zone at a time instead of bouncing back and forth between them like you have to in the current version. The students that I showed my redesign to noted how much more approachable my design was compared to the original. It’s probably impossible to make filling out a form a wonderful experience, but small steps like grouping related items together and making the text more legible can go far in making it bearable. 
 
-
-
-### 4. Choosing a Date and Time
-
-![Date and time redesign](/media/date-and-time.png "Date and time redesign")
-
-##### Problem
-
-Improving this fell into the “general usability” bucket. When I think about dates, I always need to see a calendar. I can’t visualize time without seeing the days mapped out in a grid. Additionally, the time picker was uncomfortably precise. In a perfect world where everybody arrived on time, 1-minute intervals for appointments would work great. It would so efficient! However, we don’t live in a perfect world. As a user, I also don’t want the option to pick between 3:02 and 3:03 pm. It’s an unnecessary decision. 
-
-##### Solution
-
-A calendar drop-down and 15-minute time intervals where a certain number of students can sign up for each interval. 
-
-### 5. Appointment Confirmation
+### 4. Appointment confirmation
 
 ![Appointment confirmation page redesign](/media/confirmation-page.png "Appointment confirmation page redesign")
 
@@ -122,6 +108,18 @@ To encourage more students to show up on time, I put more emphasis on the date a
 
 Additionally, I wanted the confirmation page to feel more like you had officially made an appointment. You made a commitment and you have to show up on time. A big title announcing that their appointment has been booked and a direct  “See you…” then will hopefully inspire that feeling.
 
+### 5. Date and time
+
+![Date and time redesign](/media/date-and-time.png "Date and time redesign")
+
+##### Problem
+
+Improving this fell into the “general usability” bucket. When I think about dates, I always need to see a calendar. I can’t visualize time without seeing the days mapped out in a grid. Additionally, the time picker was uncomfortably precise. In a perfect world where everybody arrived on time, 1-minute intervals for appointments would work great. It would so efficient! However, we don’t live in a perfect world. As a user, I also don’t want the option to pick between 3:02 and 3:03 pm. It’s an unnecessary decision. 
+
+##### Solution
+
+A calendar drop-down and 15-minute time intervals where a certain number of students can sign up for each interval. 
+
 ## Prototypes
 
 The full prototype can be explored below:
@@ -133,8 +131,6 @@ The full prototype can be explored below:
 ![](/media/mobile.png)
 
 I frequently schedule appointments on my phone and so do many of the students I talked to so making a mobile-friendly version was a priority. I personally found the current form’s mobile formatting to be too small and difficult to navigate so I increased the spacing between form fields to fix this. 
-
-
 
 You can view the mobile prototype below.
 
@@ -153,8 +149,6 @@ The main goal of my redesign is to encourage a greater percentage of students to
 3. #### Students *might* get tested more
 
    More testing is good and if the process is easier, more people might get tested. *However*, of the students I’ve talked to, no one told me they didn’t get tested because the appointment process was too annoying. If my design was implemented, I would want to compare the testing rates before and after to see if it had any effect.
-
-
 
 ## What I'd Do Differently Next Time
 
