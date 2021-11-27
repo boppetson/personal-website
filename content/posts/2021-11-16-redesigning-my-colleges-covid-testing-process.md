@@ -156,8 +156,10 @@ The main goal of my redesign is to encourage a greater percentage of students to
 
 ## What I'd Do Differently Next Time
 
-Overall, I was happy with the work I did and what I learned along the way. This was an opportunity to practice design methodologies.
+Overall, I was happy with the work I did and what I learned along the way. My last major project took place at a start-up where I had to move fast. There's a lot of benefit to creating value quickly; however, I enjoyed being able to take things more slowly and learn how to more effectively use design thinking strategies. For example, I had never made a journey map before but it was super helpful in putting the whole process into view. I was able to make better decisions since I was aware of what happened before and after students entered the appointment process.
 
-If I had the ability to, I would love to test my redesign with students and see how it affects their appointment-making rate. Based on my own experience and what I learned from other students, redesigning the process should help tremendously.
+I would love to test my redesign with students and see how it affects their appointment-making rate. Based on my own experience and what I learned from other students, redesigning the process should help tremendously. 
 
-Unfortunately, right as I was about present my work to the health center manager, our school announced that our testing process was changing. I haven’t seen yet what it looks like, but I’m sure hoping it’s a better process than what we have now.
+Unfortunately, right as I finished the prototypes and was about to get feedback from the health center manager, my school announced it was changing the testing process. Now, every student will pick up at-home testing kits and test themselves while being supervised by a telehealth doctor. I've reached out to hear the reasoning behind the change. My design solution aimed to solve the problem without a comprehensive restructuring of the testing process to minimize the cost. I want to know why they chose to restructure the whole thing, instead of reworking the existing process. Did they know about the lack of student appointments and the stressed-out medical staff?
+
+Nevertheless, I hope this new process creates fewer issues for the students and staff. Otherwise, I might have to redesign that one too!
