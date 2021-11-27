@@ -1,6 +1,6 @@
 ---
 template: post
-title: Redesigning My College's Covid-19 Testing Process
+title: Unsolicited Redesign of CC's Covid-19 Testing Process
 slug: covid-testing-redesign
 socialImage: /media/schedule.png
 draft: false
