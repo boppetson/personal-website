@@ -5,12 +5,16 @@ slug: covid-testing-redesign
 socialImage: /media/schedule.png
 draft: false
 date: 2021-11-16T00:40:08.131Z
-description: " How and why I redesigned my College's Covid-19 Testing process. "
+description: " How and why I redesigned my College's Covid-19 testing process. "
 category: Portfolio
 tags:
   - Design
 ---
-![](/media/covidtestreminder.png)
+I redesigned my college's Covid-19 testing process to increase the percentage of students who make testing appointments. I discovered that many didn't make appointments and walked in without one instead. This was stressful for the medical staff who administered the tests since they rely on appointments to schedule staff. Since many students don’t make appointments, they frequently end up understaffed and overburdened. By making the process less frustrating, I hope to increase student appointment rates.
+
+<br>
+
+![The dreaded test teminder email](/media/covidtestreminder.png "The dreaded test teminder email")
 
 > Not again...
 
