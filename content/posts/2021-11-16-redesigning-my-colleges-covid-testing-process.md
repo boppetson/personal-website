@@ -130,7 +130,7 @@ The full prototype can be explored below:
 
 ![](/media/mobile.png)
 
-I frequently schedule appointments on my phone and so do many of the students I talked to so making a mobile-friendly version was a priority. I personally found the current form’s mobile formatting to be too small and difficult to navigate so I increased the spacing between form fields to fix this. 
+I frequently schedule appointments on my phone and so do many of the students I talked to. Thus, making a mobile-friendly version was a priority. I personally found the current form’s mobile formatting to be too small and difficult to navigate so I increased the spacing between form fields to fix this. 
 
 You can view the mobile prototype below.
 
