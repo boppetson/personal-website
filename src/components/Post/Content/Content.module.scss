@@ -2,13 +2,12 @@
 @import '../../../assets/scss/mixins';
 
 .content {
-  max-width: $layout-post-single-width;
   padding: 0 15px;
   margin: 0 auto;
 
   &__title {
     font-size: $typographic-base-font-size * 2;
-    max-width: $layout-post-width;
+    max-width: $text-post-width;
     margin-left: auto;
     margin-right: auto;
     font-weight: 600;
@@ -21,7 +20,7 @@
   &__body {
     & figure {
       @include margin-bottom(1);
-
+  
       & blockquote {
         font-style: italic;
         text-align: center;
@@ -29,7 +28,7 @@
         @include padding(1, 0);
 
         & p {
-          max-width: $layout-post-width;
+          max-width: $text-post-width;
           font-size: $typographic-base-font-size * 1.6817;
           margin-top: 0;
           @include margin-bottom(1);
@@ -39,21 +38,14 @@
       }
 
     }
-
     & a {
       text-decoration: underline
     }
-
     & * {
-      max-width: $layout-post-width;
+      max-width: $text-post-width;
       margin-left: auto;
       margin-right: auto
     }
-
-    & img {
-      max-width: 100%;
-    }
-
   }
 
 }
