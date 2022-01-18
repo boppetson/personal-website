@@ -24,7 +24,7 @@ I built a lamp to help me be more mindful about how I use my phone. I, like many
 
 Placing your phone on the base of the lamp turns on the light. If you remove your phone, the light slowly fades away. Only by returning your phone will the light come on again.
 
-I used an Arduino Uno and a pressure sensor to check if there’s a lamp. I had a toggle system where the user could flip a switch to change between regular lamp and mindful mode. During teh regular mode, the lamp would act like a normal lamp, only turning on when the lamp switch was on. In mindful mode, the lamp would only turn on when a phone is sitting on the base. 
+I used an Arduino Uno and a pressure sensor to check if there’s a phone on the lamp. The lampshade and base are built of laser-cut layers of chipboard (white chipboard for the lampshade).
 
 ## Process
 
@@ -33,9 +33,9 @@ I started with the desired outcome and worked backward. I needed to:
 1. Make the act of grabbing my phone conscious 
 2. Replace the reward of using my phone
 
-If I can make myself think before I grab my phone, I’ll be able to evaluate whether using my phone is worth it or not. Usually, it’s not. In addition, I wanted to reward myself for not using my phone. Instead of the addiction-building dopamine hit of grabbing for my phone, I’d get some other more-worthwhile thing. I eventually settled on light since it was both a functional (being able to see clearly) and an aesthetic (warm light makes my room beautiful) reward.
+If I can make myself think before I grab my phone, I’ll be able to evaluate whether using my phone is worth it or not. Usually, it’s not. In addition, I wanted to reward myself for not using my phone. Instead of the addiction-building dopamine hit of grabbing for my phone, I’d get some other more-worthwhile thing. 
 
-Some productivity experts might suggest removing my phone from the room to solve my problem. It's a simple solution; however, it wasn't for me. I still wanted to have my phone nearby. It’s useful; I text my friends about dinner plans and jot down notes. Plus, I’d like to believe that I can resist the temptation to use it even if it's nearby. I want to coexist with my phone without it controlling me.
+Note: some productivity experts suggest removing your phone from the room altogether so you never get. It's a simple solution; however, it wasn't for me. I still wanted to have my phone nearby. It’s useful; I text my friends about dinner plans and jot down notes. Plus, I’d like to believe that I can resist the temptation to use it even if it's nearby. I want to coexist with my phone without it controlling me.
 
 ### Iteration
 
@@ -43,30 +43,26 @@ Some productivity experts might suggest removing my phone from the room to solve
 
 ![](/media/coffin-in-desk.jpg)
 
-My original idea was for a “phone coffin.” Inspired by the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique), you would put your phone into the box and a timer would start. After 25 minutes, you could take your phone out of the box and use it for a 5-minute break. If you pulled your phone out before the 25 minutes was up or if you continued to use your phone after your 5-minute break, the box would buzz very annoyingly until you returned the phone to the box.
+My original idea to stop myself from grabbing my phone was the “phone coffin.” Inspired by the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique), you would put your phone into the box and a timer would start. After 25 minutes, you could take your phone out of the box and use it for a 5-minute break. If you pulled your phone out before the 25 minutes was up or if you continued to use your phone after your 5-minute break, the box would buzz very annoyingly until you returned the phone to the box.
 
 This buzzer certainly made me think before I reached for my phone, but I didn't like the emphasis on punishment. If I got an important call that was a worthwhile distraction from my work, I wouldn't want the box to angrily buzz at me. It also felt like more could be done to reward the user for putting their phone away. With the phone coffin, the only reward was the phone-free time to focus.
 
+So, I iterated. After a lot of thinking, sketching, and experimenting, the lamp idea was born.
+
 ![](/media/lamp-sketch-collage.png)
 
-After a lot of thinking, sketching, and experimenting, the lamp idea was born. 
-
-![](/media/prototype.jpg)
-
-I experimented with hanging the lampshade from rope and liked the tangible.
-
-
-
-![](/media/closeup.jpg)
-
-The lampshade and base are built of laser-cut layers of chipboard (white chipboard for the lampshade). The bumpy texture was inspired by [theta waves](https://en.wikipedia.org/wiki/Theta_wave), the neural wavelength that the brain releases when it's in deep thought. 
+I started prototyping the look and feel of the lamp. I wanted the lamp to resemble a tree, representing a natural calm and the "tree of knowledge" that could result from not looking at your phone. For the lampshade, I was inspired by an [IKEA lamp](https://media.karousell.com/media/photos/products/2020/8/16/ikea_kajuta_lamps_white_and_gr_1597546704_36c7aa3e_progressive.jpg) I had in my room when I was growing that you could bend parts of to let more or less light out. It was both fun to play with and useful if you wanted to change the light level in your room. In the final version, the lampshade's layers can be moved up and down to create openings for the light to shine through.
 
 ![](/media/lamp-layers.jpg)
 
-The lampshade's layers can be moved up and down to create openings for the light to shine through.
+The overlapping bumpy texture of the lampshade was inspired by [theta waves](https://en.wikipedia.org/wiki/Theta_wave), the neural wavelength that the brain releases when it's in deep thought. 
+
+![](/media/theta.png)
+
+
 
 ## Final Thoughts
 
 ![](/media/in-construction.jpg)
 
-This was an ambitious project that took me several weeks of iterating to complete. Certainly, there are more iterations needed to buff out the edges, but I’m proud of what I have so far. I had never worked with analog and digital electronics to this extent before. Combining the digital with the physical design of a lamp was especially tricky. There was a lot to consider and I initially struggled to prototype quickly. Testing a new lampshade design to see how it would interact with the light the light took a lot longer than mocking something up in Figma! During the project, I ran into many problems that I had never encountered before, but I came out on top. It was quite a learning experience, but the greatest benefit I felt was the confidence that I could design things physically as well as digitally.
+This was an ambitious project that took me several weeks of iterating to complete. If I had more time, I would continue to iterate, but I’m proud of where I got in the time I set aside for this project. I had never worked with analog and digital electronics to this extent before. Combining the digital with the physical design of a lamp was especially tricky. There was a lot to consider and I initially struggled to prototype quickly. Testing a new lampshade design to see how it would interact with the light the light took a lot longer than mocking something up in Figma! During the project, I ran into many problems that I had never encountered before, but I came out on top. It was quite a learning experience, but the greatest benefit I felt was the confidence that I could design things physically as well as digitally.
