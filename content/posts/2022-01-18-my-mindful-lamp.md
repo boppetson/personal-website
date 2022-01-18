@@ -7,8 +7,7 @@ draft: false
 date: 2022-01-17T23:26:29.681Z
 description: "How and why I did something I had never done before: build a lamp!"
 category: portfolio
-tags:
-  - design
+tags: []
 ---
 ![](/media/lamp-shot.jpg)
 
