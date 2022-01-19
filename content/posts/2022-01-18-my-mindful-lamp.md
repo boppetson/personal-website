@@ -11,7 +11,7 @@ tags: []
 ---
 ![](/media/lamp-shot.jpg)
 
-I built a lamp to help me be more mindful about how I use my phone. I, like many, am addicted to my phone. While I’m alright with this arrangement because I find my phone extremely useful, I don’t like when I’m not in control of the interaction. Sometimes, I’ve caught myself reflexively grabbing my phone without purpose while I’m working or relaxing. Whenever this happens, I get a yucky feeling deep in my stomach since I’m unintentionally distracting myself. Distractions are fine and often useful, but I want to choose when and how and what I’m doing to distract myself. Mindlessly reaching for my phone to get a dopamine hit is not what I want. Can I design something to retrain myself?
+I built a lamp to help me be more mindful about how I use my phone. I, like many, feel addicted to my phone. While I’m alright with this because I find my phone extremely useful, I don’t like when I’m not in control of the interaction. Sometimes, I’ve caught myself reflexively grabbing my phone without purpose while I’m working or relaxing. Whenever this happens, I get a yucky feeling deep in my stomach since I’m unintentionally distracting myself. Distractions are fine and often useful, but I want to choose when and how and what I’m doing to distract myself. Mindlessly reaching for my phone to get a dopamine hit is not what I want. Can I design something to retrain myself?
 
 ![](/media/light-beauty.jpg)
 
