@@ -1,12 +1,12 @@
 ---
 template: post
-title: "Twitch Streamer Automation: Case Study"
+title: Automating Work for Twitch Streamers
 slug: twitch-streamer-automation
 socialImage: /media/subonlyserver.png
 draft: false
 date: 2021-10-27T02:43:48.393Z
 description: |
-  How I designed a tool to reduce Twitch Streamers's workloads.
+  How I designed and launched a product to reduce Twitch streamers' workloads.
 category: Portfolio
 tags:
   - Design
