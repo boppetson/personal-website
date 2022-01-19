@@ -1,6 +1,6 @@
 ---
 template: post
-title: Building a Lamp that Encourages Not Using Your Phone
+title: Building a Lamp to Help Me Avoid My Phone
 slug: mindful-lamp
 socialImage: /media/lamp-shot.jpg
 draft: false
