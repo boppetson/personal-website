@@ -5,8 +5,8 @@ slug: covid-testing-redesign
 socialImage: /media/schedule.png
 draft: false
 date: 2021-11-16T00:40:08.131Z
-description: The testing process led to an understaffed and overstressed health
-  center so I redesigned it.
+description: The process led to an understaffed and overstressed health center
+  so I redesigned it.
 category: Portfolio
 tags:
   - Design
