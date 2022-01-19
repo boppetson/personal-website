@@ -1,7 +1,7 @@
 ---
 template: post
-title: My Mindful Lamp
-slug: my-mindful-lamp
+title: Building a Lamp that Encourages Not Using Your Phone
+slug: mindful-lamp
 socialImage: /media/lamp-shot.jpg
 draft: false
 date: 2022-01-17T23:26:29.681Z
