@@ -36,8 +36,6 @@ Note: some productivity experts suggest removing your phone from the room altoge
 
 ### Iteration
 
-#### Phone Coffin
-
 ![](/media/coffin-in-desk.jpg)
 
 My original idea to stop myself from grabbing my phone was the “phone coffin.” Inspired by the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique), you would put your phone into the box and a timer would start. After 25 minutes, you could take your phone out of the box and use it for a 5-minute break. If you pulled your phone out before the 25 minutes was up or if you continued to use your phone after your 5-minute break, the box would buzz very annoyingly until you returned the phone to the box.
@@ -47,6 +45,8 @@ This buzzer certainly made me think before I reached for my phone, but I didn't 
 So, I iterated. After a lot of thinking, sketching, and experimenting, the lamp idea was born.
 
 ![](/media/lamp-sketch-collage.png)
+
+![](/media/prototype.jpg)
 
 I started prototyping the look and feel of the lamp. I wanted the lamp to resemble a tree, representing a natural calm and the "tree of knowledge" that could result from not looking at your phone. For the lampshade, I was inspired by an [IKEA lamp](https://media.karousell.com/media/photos/products/2020/8/16/ikea_kajuta_lamps_white_and_gr_1597546704_36c7aa3e_progressive.jpg) I had in my room when I was growing that you could bend parts of to let more or less light out. It was both fun to play with and useful if you wanted to change the light level in your room. In the final version, the lampshade's layers can be moved up and down to create openings for the light to shine through.
 
@@ -62,4 +62,4 @@ The overlapping bumpy texture of the lampshade was inspired by [theta waves](htt
 
 ![](/media/in-construction.jpg)
 
-This was an ambitious project that took me several weeks of iterating to complete. If I had more time, I would continue to iterate, but I’m proud of where I got in the time I set aside for this project. I had never worked with analog and digital electronics to this extent before. Combining the digital with the physical design of a lamp was especially tricky. There was a lot to consider and I initially struggled to prototype quickly. Testing a new lampshade design to see how it would interact with the light the light took a lot longer than mocking something up in Figma! During the project, I ran into many problems that I had never encountered before, but I came out on top. It was quite a learning experience, but the greatest benefit I felt was the confidence that I could design things physically as well as digitally.
+This was an ambitious project that took me several weeks of iterating to complete. If I had more time, I would continue to iterate, but I’m proud of where I got in the time I set aside for this project. I had never worked with analog and digital electronics to this extent before. Combining the digital with the physical design of a lamp was especially tricky. There was a lot to consider and I initially struggled to prototype quickly. Testing a new lampshade design to see how it interacted with the light took a lot longer than mocking something up in Figma! During the project, I ran into many problems that I had never encountered before, but I came out on top. It was quite a learning experience, but the greatest benefit I felt was the confidence that I could design things physically as well as digitally.
