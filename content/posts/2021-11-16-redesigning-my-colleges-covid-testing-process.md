@@ -5,7 +5,8 @@ slug: covid-testing-redesign
 socialImage: /media/schedule.png
 draft: false
 date: 2021-11-16T00:40:08.131Z
-description: " How and why I redesigned my college's Covid-19 testing process. "
+description: " My college's college's Covid-19 testing process was causing
+  problems for the medical staff so I redesigned it."
 category: Portfolio
 tags:
   - Design
