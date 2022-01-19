@@ -17,7 +17,7 @@ I built a lamp to help me be more mindful about how I use my phone. I, like many
 
 ## How it works
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bqbEELaH9-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/bqbEELaH9-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Placing your phone on the base of the lamp turns on the light. If you remove your phone, the light slowly fades away. Only by returning your phone will the light come on again.
 
