@@ -7,7 +7,7 @@ draft: false
 ---
 ## *The tiny*
 
-I love helping people and finding creative solutions to tough problems.
+I love helping people by finding creative solutions to tough problems.
 
 ## *The short*
 
