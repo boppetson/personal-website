@@ -153,7 +153,7 @@ The main goal of my redesign is to encourage a greater percentage of students to
    Since all CC students operate on the same daily schedule ([the Block plan](https://www.coloradocollege.edu/basics/blockplan/whats-a-block.html)), bottlenecks are frequent across campus. A lot of students walk in right after lunch and before breaks (fall break, weekends, [block breaks](https://www.coloradocollege.edu/basics/blockplan/blockbreak/index.html)). Thankfully, I’ve never seen a concerningly long line at the health center (max I’ve seen is ~8), but more appointments could mean almost no waiting ever since appointments would spread out the testing. Not to mention that lots of people bunched together in a line isn’t something you want during a pandemic.
 3. #### Students *might* get tested more
 
-   More testing is good and if the process is easier, more people might get tested. *However*, of the students I’ve talked to, no one told me they didn’t get tested because the appointment process was too annoying. If my design was implemented, I would want to compare the testing rates before and after to see if it had any effect.
+   More testing is good and if the process is easier, more people might get tested. *However*, none of the students I talked to told me they didn’t get tested because the appointment process was too annoying. If my design was implemented, I would want to compare the testing rates before and after to see if it had any effect.
 
 ## What I'd Do Differently Next Time
 
@@ -161,6 +161,8 @@ Overall, I was happy with the work I did and what I learned along the way. My la
 
 I would love to test my redesign with students and see how it affects their appointment-making rate. Based on my own experience and what I learned from other students, redesigning the process should help tremendously. 
 
-Unfortunately, right as I finished the prototypes and was about to get feedback from the health center manager, my school announced it was changing the testing process. Now, every student will pick up at-home testing kits and test themselves while being supervised by a telehealth doctor. I've reached out to hear the reasoning behind the change. My design solution aimed to solve the problem without a comprehensive restructuring of the testing process to minimize the cost. I want to know why they chose to restructure the whole thing, instead of reworking the existing process. Did they know about the lack of student appointments and the stressed-out medical staff?
+Unfortunately, right as I finished the prototypes and was about to get feedback from the health center, my school announced it was changing the testing process. Now, every student will pick up at-home testing kits and test themselves while being supervised by a telehealth doctor. If a student tests positive with an at-home kit, then they get sent to the health center for additional molecular testing. 
+
+I reached out to the school to ask why they changed the process. They told me it was for the "flexibility and convenience" of students. After a few months, I'd agree; it is more convenient. I can pick up a couple tests on my way back from class and test whenever I want. More importantly, they've made our health center staff's lives a lot easier. Instead of bearing the full brunt of testing ~800 students, they only do follow-ups on the small number of positive tests.  
 
 Nevertheless, I hope this new process creates fewer issues for the students and staff. Otherwise, I might have to redesign that one too!
