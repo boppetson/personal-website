@@ -5,13 +5,9 @@ slug: about
 socialImage: /media/img_20191127_143835.jpg
 draft: false
 ---
-## *The tiny*
-
-I love helping people by finding creative solutions to tough problems.
-
 ## *The short*
 
-I’m a senior studying sociology at Colorado College and a self-taught designer.  I went into design because I want to make other people's lives better and design lets me do that on a bigger scale. Previously, I built an [ecommerce site](https://phxfood.coop/) to sell fresh produce from local farms to my neighbors. I also helped a [startup](https://contenda.co/) grow from 4 friends to a $10 million evaluation. When I’m not working, I cook, play Overwatch, and read.
+I’m a senior studying sociology at Colorado College and a self-taught designer.  I went into design because I want to make other people's lives better at scale. Previously, I built an [ecommerce site](https://phxfood.coop/) to sell fresh produce from local farms to my neighbors. I also helped a [startup](https://contenda.co/) grow from 4 friends to a $10 million evaluation. When I’m not working, I cook, play Overwatch, and read.
 
 ## *The long*
 
