@@ -4,7 +4,7 @@ title: Automating Work for Twitch Streamers
 slug: twitch-streamer-automation
 socialImage: /media/subonlyserver.png
 draft: false
-date: 2021-10-27T02:43:48.393Z
+date: 2022-04-24T23:36:10.361Z
 description: |
   How I designed and launched a product to reduce Twitch streamers' workloads.
 category: Portfolio
