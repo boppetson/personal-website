@@ -4,7 +4,7 @@ title: Building a Lamp to Help Me Avoid My Phone
 slug: mindful-lamp
 socialImage: /media/lamp-shot.jpg
 draft: false
-date: 2022-01-17T23:26:29.681Z
+date: 2022-04-24T23:36:03.514Z
 description: "How and why I did something I had never done before: build a lamp!"
 category: Portfolio
 tags: []
