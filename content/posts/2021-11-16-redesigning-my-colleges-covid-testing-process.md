@@ -4,7 +4,7 @@ title: Redesigning My College's Covid Testing Process
 slug: covid-testing-redesign
 socialImage: /media/schedule.png
 draft: false
-date: 2021-11-16T00:40:08.131Z
+date: 2022-04-24T23:36:19.155Z
 description: The process left our health center understaffed and overstressed so
   I redesigned it.
 category: Portfolio
